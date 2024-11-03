@@ -11,8 +11,8 @@ st.sidebar.success("Select a page above.")
 #Add in other places to view my work
 Links = {
     "Tableau Public":" https://public.tableau.com/app/profile/lauren.glenn/vizzes",
-    "LinkedIn": "https://linkedin.com",
     "PowerBI Gallery": "https://github.com",
+    "LinkedIn": "https://linkedin.com",
 }
 
 st.write('\n')
@@ -25,8 +25,8 @@ st.write('\n')
 st.subheader("CHANGE")
 st.write(
     """
--Welcome to my online portfolio! I have eight years of experience in deriving actionable insights from data and transforming them into engaging visualizations. 
--Explore the projects section to see examples of my work with various tools and technologies.
+Welcome to my online portfolio! I have eight years of experience in deriving actionable insights from data and transforming them into engaging visualizations. 
+Explore the projects section to see examples of my work with various tools and technologies.
 
 """
 )
