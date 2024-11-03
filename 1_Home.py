@@ -19,3 +19,14 @@ st.write('\n')
 cols = st.columns(len(Links))
 for index, (platform, link) in enumerate(Links.items()):
     cols[index].write(f"[{platform}]({link})")
+
+#Summary
+st.write('\n')
+st.subheader("CHANGE")
+st.write(
+    """
+-Welcome to my online portfolio! I have eight years of experience in deriving actionable insights from data and transforming them into engaging visualizations. 
+-Explore the projects section to see examples of my work with various tools and technologies.
+
+"""
+)
