@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-import turtle
 
 st.set_page_config(
     page_title="Lauren's Portfolio"
@@ -16,12 +15,13 @@ Links = {
     "My LinkedIn": "https://linkedin.com",
 }
 
+#Create columns for links
 st.write('\n')
 cols = st.columns(len(Links))
 for index, (platform, link) in enumerate(Links.items()):
-    cols[index].write(f"[{platform}]({link})",font=("Arial", 16, "bold"))
+    cols[index].write(f"[{platform}]({link})")
 
-#Summary
+#Summary of portfolio
 st.write('\n')
 st.subheader("CHANGE")
 st.write(
