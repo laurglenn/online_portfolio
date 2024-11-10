@@ -10,6 +10,22 @@ with col1:
 with col2:
     st.title("Lauren Glenn", anchor=False)
     st.write("Sales Analytics Analyst, .........)
+with col3:
+    st.title("Links Test")
+
+    #Add in other places to view my work
+Links = {
+    "My Tableau Public":" https://public.tableau.com/app/profile/lauren.glenn/vizzes",
+    "My PowerBI Gallery": "https://github.com",
+    "My LinkedIn": "https://linkedin.com",
+}
+
+#Create columns for contact links
+st.write('\n')
+cols = st.columns(len(Links))
+for index, (platform, link) in enumerate(Links.items()):
+    cols[index].write(f"[{platform}]({link})")
+             
 
 
 
