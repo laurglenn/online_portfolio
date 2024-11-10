@@ -12,19 +12,16 @@ project_1_page = st.Page(
     page="sections/streamlitdash.py",
     title="Streamlit(Python) Sales Dashboard",
     icon=":material/dataset:",
-    default=True,
 )
 project_2_page = st.Page(
     page="sections/tableaudash.py",
     title="About Me",
     icon=":material/account_circles:",
-    default=True,
 )
 project_3_page = st.Page(
     page="sections/powerbidash.py",
     title="About Me",
     icon=":material/home:",
-    default=True,
 )
 
 
