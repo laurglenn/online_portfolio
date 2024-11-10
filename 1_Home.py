@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-#Page Setup
+#Page Setup -- Emoji Google Material Symbols & Icons
 about_page = st.Page(
     page="sections/about_me.py",
     title="About Me",
