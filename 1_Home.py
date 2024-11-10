@@ -11,17 +11,17 @@ about_page = st.Page(
 project_1_page = st.Page(
     page="sections/streamlitdash.py",
     title="Streamlit(Python) Sales Dashboard",
-    icon=":material/home:",
+    icon=":material/data_thresholding:",
 )
 project_2_page = st.Page(
     page="sections/tableaudash.py",
     title="Tableau Sales Dashboard",
-    icon=":material/home:",
+    icon=":material/data_thresholding:",
 )
 project_3_page = st.Page(
     page="sections/powerbidash.py",
     title="Power BI Sales Dashboard",
-    icon=":material/home:",
+    icon=":material/data_thresholding:",
 )
 
 
