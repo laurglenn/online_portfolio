@@ -7,4 +7,4 @@ with st.sidebar:
   st.write("Power BI Sales Dashboard")
   st.write("Excel Sales Dashboard")
 
-st.caption("This is my _wireframe_ that I created through.")
+st.text("This is my _wireframe_ that I created through.")
