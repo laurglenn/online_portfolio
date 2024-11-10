@@ -37,6 +37,10 @@ pg = st.navigation(
     
 )
 
+#Add caption on siderbar
+st.sidebar.text("Created by Lauren Glenn")
+#st.logo(assets/pic.jpg)
+
 #Run Navigation
 pg.run()
 
