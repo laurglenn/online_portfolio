@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image
+import turtle
 
 st.set_page_config(
     page_title="Lauren's Portfolio"
@@ -10,15 +11,15 @@ st.sidebar.success("Select a page above.")
 
 #Add in other places to view my work
 Links = {
-    "Tableau Public":" https://public.tableau.com/app/profile/lauren.glenn/vizzes",
-    "PowerBI Gallery": "https://github.com",
-    "LinkedIn": "https://linkedin.com",
+    "My Tableau Public":" https://public.tableau.com/app/profile/lauren.glenn/vizzes",
+    "My PowerBI Gallery": "https://github.com",
+    "My LinkedIn": "https://linkedin.com",
 }
 
 st.write('\n')
 cols = st.columns(len(Links))
 for index, (platform, link) in enumerate(Links.items()):
-    cols[index].write(f"[{platform}]({link})")
+    cols[index].write(f"[{platform}]({link})",font=("Arial", 16, "bold"))
 
 #Summary
 st.write('\n')
