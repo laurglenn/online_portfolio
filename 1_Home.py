@@ -11,22 +11,31 @@ about_page = st.Page(
 project_1_page = st.Page(
     page="sections/streamlitdash.py",
     title="Streamlit(Python) Sales Dashboard",
-    icon=":material/data_thresholding:",
+    icon=":material/grouped_bar_chart:",
 )
 project_2_page = st.Page(
     page="sections/tableaudash.py",
     title="Tableau Sales Dashboard",
-    icon=":material/data_thresholding:",
+    icon=":material/grouped_bar_chart:",
 )
 project_3_page = st.Page(
     page="sections/powerbidash.py",
     title="Power BI Sales Dashboard",
-    icon=":material/data_thresholding:",
+    icon=":material/grouped_bar_chart:",
 )
 
 
 #Create Navigation
-pg = st.navigation(pages=[about_page,project_1_page,project_2_page,project_3_page])
+#pg = st.navigation(pages=[about_page,project_1_page,project_2_page,project_3_page])
+
+#Navigation with Sections
+pg = st.navigation(
+{
+    "Info":[about_page]
+    "Projects": [project_1_page,project_2_page,project_3_page]
+}
+    
+)
 
 #Run Navigation
 pg.run()
