@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("Power BI Sales Dashboard")
+st.title("Streamlit(Python) Sales Dashboard")
 
