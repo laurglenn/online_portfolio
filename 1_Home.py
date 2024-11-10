@@ -35,25 +35,25 @@ pg = st.navigation(pages=[about_page,project_1_page,project_2_page,project_3_pag
 pg.run()
 
 #Add in other places to view my work
-Links = {
-    "My Tableau Public":" https://public.tableau.com/app/profile/lauren.glenn/vizzes",
-    "My PowerBI Gallery": "https://github.com",
-    "My LinkedIn": "https://linkedin.com",
-}
+#Links = {
+#    "My Tableau Public":" https://public.tableau.com/app/profile/lauren.glenn/vizzes",
+ #   "My PowerBI Gallery": "https://github.com",
+ #   "My LinkedIn": "https://linkedin.com",
+#}
 
 #Create columns for contact links
-st.write('\n')
-cols = st.columns(len(Links))
-for index, (platform, link) in enumerate(Links.items()):
-    cols[index].write(f"[{platform}]({link})")
+#st.write('\n')
+#cols = st.columns(len(Links))
+#for index, (platform, link) in enumerate(Links.items()):
+ #   cols[index].write(f"[{platform}]({link})")
 
 #Summary of portfolio
-st.write('\n')
-st.subheader("CHANGE")
-st.write(
-    """
-Welcome to my online portfolio! I have eight years of experience in deriving actionable insights from data and transforming them into engaging visualizations. 
-Explore the projects section to see examples of my work with various tools and technologies.
+#st.write('\n')
+#st.subheader("CHANGE")
+#st.write(
+  #  """
+#Welcome to my online portfolio! I have eight years of experience in deriving actionable insights from data and transforming them into engaging visualizations. 
+#Explore the projects section to see examples of my work with various tools and technologies.
 
-"""
-)
+#"""
+#)
