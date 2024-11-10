@@ -8,14 +8,17 @@ with st.sidebar:
   st.write("Power BI Sales Dashboard")
   st.write("Excel Sales Dashboard")
 
+st.sidebar.page_link("3_Streamlit.py", label="Streamlit(Python) Sales Dashboard")
+
 st.text("This is my _wireframe_ that I created through Figma. Creating a wireframe allows me to get a good idea of the look and feel of my dashboard. Figma allows you to also mim navagation to test user experience")
 
-if st.button("Streamlit(Python) Sales Dashboard"):
-    st.switch_page("portpages/3_Streamlit.py")
-if st.button("Tableau Sales Dashboard"):
-    st.switch_page("portpages/4_Tableau.py")
-if st.button("Power BI Sales Dashboard"):
-    st.switch_page("portpages/5_PowerBI.py")
+
+#if st.button("Streamlit(Python) Sales Dashboard"):
+   # st.switch_page("portpages/3_Streamlit.py")
+#if st.button("Tableau Sales Dashboard"):
+    #st.switch_page("portpages/4_Tableau.py")
+#if st.button("Power BI Sales Dashboard"):
+   # st.switch_page("portpages/5_PowerBI.py")
 
 
 
