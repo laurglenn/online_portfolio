@@ -5,7 +5,7 @@ from PIL import Image
 about_page = st.Page(
     page="sections/about_me.py",
     title="About Me",
-    icon=":material/account_circles:",
+    icon=":material/account_circle:",
     default=True,
 )
 project_1_page = st.Page(
@@ -16,7 +16,7 @@ project_1_page = st.Page(
 project_2_page = st.Page(
     page="sections/tableaudash.py",
     title="About Me",
-    icon=":material/account_circles:",
+    icon=":material/account_circle:",
 )
 project_3_page = st.Page(
     page="sections/powerbidash.py",
