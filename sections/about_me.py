@@ -22,7 +22,31 @@ for index, (platform, link) in enumerate(Links.items()):
     cols[index].write(f"[{platform}]({link})")
 
 #-----EXPERIENCES------#
+st.write("\n")
+st.subheader("Work Experience", anchor=False)
+st.write(
+    """
+    -adfasdfa
+    -asdfasd
+    -aadfasf
+    -asdfa
+    -asdfsad
+    """
+    )
 
+st.write("\n")
+st.subheader("Skills & Certifications", anchor=False)
+st.write(
+    """
+    -adfasdfa
+    -asdfasd
+    -aadfasf
+    -asdfa
+    -asdfsad
+    """
+    )
+
+     
              
 
 
