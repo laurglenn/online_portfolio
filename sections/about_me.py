@@ -9,7 +9,7 @@ with col1:
     st.image("./assets/LaurenGlenn_Headshot.jpg, width=230)
 with col2:
     st.title("Lauren Glenn", anchor=False)
-    st.write("Sales Analytics Analyst, .........)
+    st.write("Sales Analytics Analyst, .........")
 with col3:
     st.title("Links Test")
 
