@@ -1,12 +1,38 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(
-    page_title="Lauren's Portfolio"
+#Page Setup
+about_page = st.Page(
+    page="sections/about_me.py",
+    title="About Me",
+    icon=":material/account_circles:",
+    default=True,
+)
+project_1_page = st.Page(
+    page="sections/streamlitdash.py",
+    title="Streamlit(Python) Sales Dashboard",
+    icon=":material/dataset:",
+    default=True,
+)
+project_2_page = st.Page(
+    page="sections/tableaudash.py",
+    title="About Me",
+    icon=":material/account_circles:",
+    default=True,
+)
+project_3_page = st.Page(
+    page="sections/powerbidash.py",
+    title="About Me",
+    icon=":material/home:",
+    default=True,
 )
 
-st.title("Overview")
-st.sidebar.success("Select a page above.")
+
+#Create Navigation
+pg = st.navigation(pages=[about_page,project_1_page,project_2_page,project_3_page])
+
+#Run Navigation
+pg.run()
 
 #Add in other places to view my work
 Links = {
@@ -15,7 +41,7 @@ Links = {
     "My LinkedIn": "https://linkedin.com",
 }
 
-#Create columns for links
+#Create columns for contact links
 st.write('\n')
 cols = st.columns(len(Links))
 for index, (platform, link) in enumerate(Links.items()):
