@@ -10,6 +10,13 @@ with st.sidebar:
 
 st.text("This is my _wireframe_ that I created through Figma. Creating a wireframe allows me to get a good idea of the look and feel of my dashboard. Figma allows you to also mim navagation to test user experience")
 
+if st.button("Streamlit(Python) Sales Dashboard"):
+    st.switch_page("pages/portpages/3_Streamlit.py")
+if st.button("Tableau Sales Dashboard"):
+    st.switch_page("pages/portpages/4_Tableau.py")
+if st.button("Power BI Sales Dashboard"):
+    st.switch_page("pages/portpages/5_PowerBI.py")
+
 
 
 #st.subheader("Units left", divider="red")
