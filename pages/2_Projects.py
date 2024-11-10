@@ -8,7 +8,7 @@ with st.sidebar:
   st.write("Power BI Sales Dashboard")
   st.write("Excel Sales Dashboard")
 
-st.sidebar.page_link("3_Streamlit.py", label="Streamlit(Python) Sales Dashboard")
+st.sidebar.page_link("portpages/3_Streamlit.py", label="Streamlit(Python) Sales Dashboard")
 
 st.text("This is my _wireframe_ that I created through Figma. Creating a wireframe allows me to get a good idea of the look and feel of my dashboard. Figma allows you to also mim navagation to test user experience")
 
