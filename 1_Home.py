@@ -15,12 +15,12 @@ project_1_page = st.Page(
 )
 project_2_page = st.Page(
     page="sections/tableaudash.py",
-    title="About Me",
+    title="Tableau Sales Dashboard",
     icon=":material/account_circle:",
 )
 project_3_page = st.Page(
     page="sections/powerbidash.py",
-    title="About Me",
+    title="Power BI Sales Dashboard",
     icon=":material/home:",
 )
 
