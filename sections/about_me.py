@@ -38,8 +38,8 @@ st.write("\n")
 st.subheader("Skills & Certifications", anchor=False)
 st.write(
     """
-    -adfasdfa
-    -asdfasd
+    -Alteryx Designer Certification
+    -MicroStrategy 10 Certification
     -aadfasf
     -asdfa
     -asdfsad
