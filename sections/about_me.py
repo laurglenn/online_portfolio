@@ -26,10 +26,10 @@ st.write("\n")
 st.subheader("Work Experience", anchor=False)
 st.write(
     """
-    -adfasdfa
-    -asdfasd
-    -aadfasf
-    -asdfa
+    -adfasdfa \n
+    -asdfasd \n
+    -aadfasf \n
+    -asdfa \n
     -asdfsad
     """
     )
