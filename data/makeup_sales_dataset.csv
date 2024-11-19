@@ -1,0 +1,1001 @@
+Year,Product Name,Product Category,City,State,Returns,Quantity,Price,Gross Sales,Date
+2023,Luxe Mascara,Eyes,Las Vegas,NV,17,125,15," 1,875.00 ",11/1/2023
+2023,Radiant Concealer,Face,Dallas,TX,4,75,30," 2,250.00 ",10/1/2023
+2024,Matte Liquid Lipstick,Lips,Chicago,IL,4,125,12," 1,500.00 ",9/1/2024
+2022,Cream Blush,Face,Detroit,MI,6,186,25," 4,650.00 ",8/1/2022
+2023,Precision Eyeliner,Eyes,San Francisco,CA,5,66,10, 660.00 ,11/1/2023
+2022,Illuminating Highlighter,Face,Boston,MA,13,136,25," 3,400.00 ",3/1/2022
+2024,Illuminating Highlighter,Face,San Francisco,CA,13,152,25," 3,800.00 ",4/1/2024
+2024,Flawless Foundation,Face,New York,NY,11,54,40," 2,160.00 ",12/1/2024
+2022,Cream Blush,Face,Las Vegas,NV,13,119,25," 2,975.00 ",7/1/2022
+2023,Lip Liner Cream Pencil,Lips,Los Angeles,CA,8,158,10," 1,580.00 ",1/1/2023
+2022,Illuminating Highlighter,Face,Las Vegas,NV,4,196,25," 4,900.00 ",1/1/2022
+2023,Lip Liner Cream Pencil,Lips,Las Vegas,NV,1,197,10," 1,970.00 ",4/1/2023
+2021,Flawless Foundation,Face,Miami,FL,18,88,40," 3,520.00 ",2/1/2021
+2021,Glossy Lip Stain,Lips,Houston,TX,2,101,8, 808.00 ,8/1/2021
+2023,Precision Eyeliner,Eyes,Boston,MA,1,116,10," 1,160.00 ",4/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Detroit,MI,7,43,20, 860.00 ,11/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,Philadelphia,PA,5,149,20," 2,980.00 ",9/1/2024
+2021,Glossy Lip Stain,Lips,Phoenix,AZ,5,54,8, 432.00 ,4/1/2021
+2023,Radiant Concealer,Face,Washington D.C.,DC,3,68,30," 2,040.00 ",5/1/2023
+2021,Cream Blush,Face,Dallas,TX,12,49,25," 1,225.00 ",5/1/2021
+2024,Luxe Mascara,Eyes,Houston,TX,17,106,15," 1,590.00 ",11/1/2024
+2022,Luxe Mascara,Eyes,New York,NY,14,55,15, 825.00 ,10/1/2022
+2023,Radiant Concealer,Face,New York,NY,5,74,30," 2,220.00 ",1/1/2023
+2021,Radiant Concealer,Face,Los Angeles,CA,2,101,30," 3,030.00 ",5/1/2021
+2021,Lip Liner Cream Pencil,Lips,Chicago,IL,10,67,10, 670.00 ,3/1/2021
+2022,Matte Liquid Lipstick,Lips,Boston,MA,14,169,12," 2,028.00 ",9/1/2022
+2021,Velvet Eyeshadow Palette,Eyes,Philadelphia,PA,9,155,20," 3,100.00 ",1/1/2021
+2022,Radiant Concealer,Face,Los Angeles,CA,5,89,30," 2,670.00 ",2/1/2022
+2022,Luxe Mascara,Eyes,Chicago,IL,16,48,15, 720.00 ,8/1/2022
+2022,Radiant Concealer,Face,Detroit,MI,1,192,30," 5,760.00 ",7/1/2022
+2023,Precision Eyeliner,Eyes,Washington D.C.,DC,5,46,10, 460.00 ,10/1/2023
+2024,Luxe Mascara,Eyes,Houston,TX,1,197,15," 2,955.00 ",7/1/2024
+2024,Lip Liner Cream Pencil,Lips,Los Angeles,CA,5,143,10," 1,430.00 ",3/1/2024
+2022,Glossy Lip Stain,Lips,Boston,MA,15,183,8," 1,464.00 ",4/1/2022
+2022,Radiant Concealer,Face,Chicago,IL,15,132,30," 3,960.00 ",8/1/2022
+2021,Precision Eyeliner,Eyes,Chicago,IL,8,135,10," 1,350.00 ",12/1/2021
+2024,Cream Blush,Face,Washington D.C.,DC,9,133,25," 3,325.00 ",9/1/2024
+2023,Lip Liner Cream Pencil,Lips,Dallas,TX,19,128,10," 1,280.00 ",9/1/2023
+2021,Matte Liquid Lipstick,Lips,Los Angeles,CA,10,133,12," 1,596.00 ",3/1/2021
+2022,Precision Eyeliner,Eyes,Washington D.C.,DC,16,65,10, 650.00 ,8/1/2022
+2023,Velvet Eyeshadow Palette,Eyes,Washington D.C.,DC,10,137,20," 2,740.00 ",5/1/2023
+2021,Precision Eyeliner,Eyes,Dallas,TX,8,134,10," 1,340.00 ",5/1/2021
+2024,Radiant Concealer,Face,Las Vegas,NV,10,124,30," 3,720.00 ",9/1/2024
+2024,Lip Liner Cream Pencil,Lips,San Diego,CA,2,44,10, 440.00 ,7/1/2024
+2024,Flawless Foundation,Face,Los Angeles,CA,19,101,40," 4,040.00 ",6/1/2024
+2022,Matte Liquid Lipstick,Lips,San Francisco,CA,14,108,12," 1,296.00 ",3/1/2022
+2024,Matte Liquid Lipstick,Lips,Philadelphia,PA,2,72,12, 864.00 ,5/1/2024
+2023,Lip Liner Cream Pencil,Lips,Chicago,IL,9,56,10, 560.00 ,10/1/2023
+2023,Radiant Concealer,Face,Detroit,MI,4,74,30," 2,220.00 ",8/1/2023
+2024,Lip Liner Cream Pencil,Lips,New York,NY,13,114,10," 1,140.00 ",6/1/2024
+2024,Radiant Concealer,Face,San Diego,CA,5,169,30," 5,070.00 ",3/1/2024
+2021,Velvet Eyeshadow Palette,Eyes,Washington D.C.,DC,14,185,20," 3,700.00 ",4/1/2021
+2021,Luxe Mascara,Eyes,Miami,FL,3,84,15," 1,260.00 ",4/1/2021
+2024,Matte Liquid Lipstick,Lips,Chicago,IL,10,61,12, 732.00 ,10/1/2024
+2024,Flawless Foundation,Face,Boston,MA,5,43,40," 1,720.00 ",10/1/2024
+2024,Luxe Mascara,Eyes,Las Vegas,NV,7,119,15," 1,785.00 ",7/1/2024
+2021,Matte Liquid Lipstick,Lips,Miami,FL,18,121,12," 1,452.00 ",11/1/2021
+2023,Glossy Lip Stain,Lips,San Francisco,CA,13,139,8," 1,112.00 ",7/1/2023
+2022,Illuminating Highlighter,Face,Atlanta,GA,9,189,25," 4,725.00 ",4/1/2022
+2021,Glossy Lip Stain,Lips,Washington D.C.,DC,4,81,8, 648.00 ,8/1/2021
+2021,Radiant Concealer,Face,Philadelphia,PA,2,136,30," 4,080.00 ",5/1/2021
+2024,Radiant Concealer,Face,New York,NY,14,46,30," 1,380.00 ",4/1/2024
+2024,Precision Eyeliner,Eyes,Los Angeles,CA,17,89,10, 890.00 ,9/1/2024
+2022,Illuminating Highlighter,Face,Atlanta,GA,13,177,25," 4,425.00 ",2/1/2022
+2023,Luxe Mascara,Eyes,San Francisco,CA,5,154,15," 2,310.00 ",10/1/2023
+2022,Luxe Mascara,Eyes,New York,NY,16,198,15," 2,970.00 ",5/1/2022
+2023,Precision Eyeliner,Eyes,Los Angeles,CA,9,177,10," 1,770.00 ",1/1/2023
+2023,Illuminating Highlighter,Face,Detroit,MI,7,78,25," 1,950.00 ",7/1/2023
+2021,Cream Blush,Face,Houston,TX,17,92,25," 2,300.00 ",1/1/2021
+2023,Illuminating Highlighter,Face,Chicago,IL,16,197,25," 4,925.00 ",5/1/2023
+2024,Luxe Mascara,Eyes,San Francisco,CA,19,96,15," 1,440.00 ",2/1/2024
+2023,Cream Blush,Face,Chicago,IL,4,194,25," 4,850.00 ",1/1/2023
+2024,Matte Liquid Lipstick,Lips,Atlanta,GA,10,100,12," 1,200.00 ",10/1/2024
+2021,Luxe Mascara,Eyes,New York,NY,19,117,15," 1,755.00 ",8/1/2021
+2023,Precision Eyeliner,Eyes,Chicago,IL,13,105,10," 1,050.00 ",9/1/2023
+2021,Precision Eyeliner,Eyes,New York,NY,18,90,10, 900.00 ,6/1/2021
+2021,Radiant Concealer,Face,Las Vegas,NV,16,135,30," 4,050.00 ",9/1/2021
+2021,Radiant Concealer,Face,Las Vegas,NV,7,58,30," 1,740.00 ",10/1/2021
+2021,Matte Liquid Lipstick,Lips,Chicago,IL,4,49,12, 588.00 ,3/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Boston,MA,7,132,20," 2,640.00 ",10/1/2024
+2022,Precision Eyeliner,Eyes,Dallas,TX,17,62,10, 620.00 ,7/1/2022
+2023,Precision Eyeliner,Eyes,Dallas,TX,17,193,10," 1,930.00 ",2/1/2023
+2022,Illuminating Highlighter,Face,Atlanta,GA,13,159,25," 3,975.00 ",3/1/2022
+2023,Flawless Foundation,Face,New York,NY,7,102,40," 4,080.00 ",4/1/2023
+2024,Lip Liner Cream Pencil,Lips,San Francisco,CA,5,94,10, 940.00 ,8/1/2024
+2021,Precision Eyeliner,Eyes,San Francisco,CA,16,49,10, 490.00 ,7/1/2021
+2023,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,19,86,20," 1,720.00 ",8/1/2023
+2024,Cream Blush,Face,Boston,MA,15,198,25," 4,950.00 ",8/1/2024
+2024,Glossy Lip Stain,Lips,Houston,TX,5,107,8, 856.00 ,4/1/2024
+2023,Flawless Foundation,Face,Detroit,MI,7,72,40," 2,880.00 ",11/1/2023
+2022,Flawless Foundation,Face,Houston,TX,12,165,40," 6,600.00 ",5/1/2022
+2022,Radiant Concealer,Face,Miami,FL,7,43,30," 1,290.00 ",4/1/2022
+2021,Cream Blush,Face,Boston,MA,13,173,25," 4,325.00 ",10/1/2021
+2023,Precision Eyeliner,Eyes,Phoenix,AZ,7,45,10, 450.00 ,3/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Miami,FL,6,167,20," 3,340.00 ",12/1/2024
+2024,Lip Liner Cream Pencil,Lips,New York,NY,16,170,10," 1,700.00 ",11/1/2024
+2023,Glossy Lip Stain,Lips,Atlanta,GA,19,114,8, 912.00 ,8/1/2023
+2022,Luxe Mascara,Eyes,Philadelphia,PA,15,169,15," 2,535.00 ",6/1/2022
+2024,Luxe Mascara,Eyes,Dallas,TX,11,110,15," 1,650.00 ",5/1/2024
+2023,Lip Liner Cream Pencil,Lips,Phoenix,AZ,19,194,10," 1,940.00 ",7/1/2023
+2022,Luxe Mascara,Eyes,Houston,TX,1,104,15," 1,560.00 ",8/1/2022
+2022,Velvet Eyeshadow Palette,Eyes,New York,NY,15,54,20," 1,080.00 ",8/1/2022
+2023,Illuminating Highlighter,Face,Dallas,TX,10,62,25," 1,550.00 ",12/1/2023
+2021,Illuminating Highlighter,Face,Dallas,TX,18,165,25," 4,125.00 ",1/1/2021
+2021,Flawless Foundation,Face,Washington D.C.,DC,4,93,40," 3,720.00 ",8/1/2021
+2021,Matte Liquid Lipstick,Lips,Philadelphia,PA,2,192,12," 2,304.00 ",9/1/2021
+2021,Glossy Lip Stain,Lips,Phoenix,AZ,13,113,8, 904.00 ,9/1/2021
+2021,Matte Liquid Lipstick,Lips,New York,NY,13,67,12, 804.00 ,5/1/2021
+2021,Cream Blush,Face,Washington D.C.,DC,19,111,25," 2,775.00 ",3/1/2021
+2023,Precision Eyeliner,Eyes,Los Angeles,CA,12,179,10," 1,790.00 ",1/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Atlanta,GA,13,68,20," 1,360.00 ",8/1/2024
+2023,Flawless Foundation,Face,Chicago,IL,17,81,40," 3,240.00 ",6/1/2023
+2024,Radiant Concealer,Face,Phoenix,AZ,3,142,30," 4,260.00 ",6/1/2024
+2023,Velvet Eyeshadow Palette,Eyes,Atlanta,GA,4,95,20," 1,900.00 ",8/1/2023
+2023,Radiant Concealer,Face,Washington D.C.,DC,2,190,30," 5,700.00 ",4/1/2023
+2022,Velvet Eyeshadow Palette,Eyes,Dallas,TX,13,94,20," 1,880.00 ",7/1/2022
+2021,Lip Liner Cream Pencil,Lips,Philadelphia,PA,15,40,10, 400.00 ,12/1/2021
+2021,Radiant Concealer,Face,Los Angeles,CA,16,169,30," 5,070.00 ",2/1/2021
+2022,Precision Eyeliner,Eyes,Atlanta,GA,12,145,10," 1,450.00 ",11/1/2022
+2024,Lip Liner Cream Pencil,Lips,San Francisco,CA,11,108,10," 1,080.00 ",9/1/2024
+2021,Matte Liquid Lipstick,Lips,Los Angeles,CA,13,89,12," 1,068.00 ",4/1/2021
+2023,Flawless Foundation,Face,Chicago,IL,4,59,40," 2,360.00 ",2/1/2023
+2024,Flawless Foundation,Face,New York,NY,7,98,40," 3,920.00 ",6/1/2024
+2024,Radiant Concealer,Face,Boston,MA,1,137,30," 4,110.00 ",9/1/2024
+2024,Radiant Concealer,Face,Miami,FL,16,127,30," 3,810.00 ",11/1/2024
+2022,Flawless Foundation,Face,Las Vegas,NV,11,53,40," 2,120.00 ",1/1/2022
+2021,Radiant Concealer,Face,Boston,MA,11,195,30," 5,850.00 ",8/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,San Diego,CA,2,65,20," 1,300.00 ",3/1/2024
+2024,Illuminating Highlighter,Face,Boston,MA,10,84,25," 2,100.00 ",1/1/2024
+2023,Illuminating Highlighter,Face,Houston,TX,11,124,25," 3,100.00 ",3/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Dallas,TX,14,61,20," 1,220.00 ",10/1/2024
+2022,Matte Liquid Lipstick,Lips,Houston,TX,14,144,12," 1,728.00 ",10/1/2022
+2024,Lip Liner Cream Pencil,Lips,Boston,MA,16,179,10," 1,790.00 ",9/1/2024
+2022,Cream Blush,Face,Phoenix,AZ,6,59,25," 1,475.00 ",10/1/2022
+2023,Illuminating Highlighter,Face,Houston,TX,7,113,25," 2,825.00 ",12/1/2023
+2024,Luxe Mascara,Eyes,Atlanta,GA,14,123,15," 1,845.00 ",2/1/2024
+2021,Luxe Mascara,Eyes,Los Angeles,CA,13,162,15," 2,430.00 ",4/1/2021
+2022,Glossy Lip Stain,Lips,Phoenix,AZ,5,196,8," 1,568.00 ",3/1/2022
+2022,Lip Liner Cream Pencil,Lips,Detroit,MI,17,193,10," 1,930.00 ",10/1/2022
+2023,Glossy Lip Stain,Lips,Atlanta,GA,4,41,8, 328.00 ,12/1/2023
+2024,Precision Eyeliner,Eyes,San Francisco,CA,1,123,10," 1,230.00 ",12/1/2024
+2024,Illuminating Highlighter,Face,Los Angeles,CA,10,47,25," 1,175.00 ",2/1/2024
+2022,Precision Eyeliner,Eyes,Philadelphia,PA,1,187,10," 1,870.00 ",6/1/2022
+2022,Lip Liner Cream Pencil,Lips,Las Vegas,NV,15,48,10, 480.00 ,10/1/2022
+2023,Flawless Foundation,Face,Phoenix,AZ,13,174,40," 6,960.00 ",1/1/2023
+2024,Cream Blush,Face,Dallas,TX,11,91,25," 2,275.00 ",8/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Houston,TX,16,111,20," 2,220.00 ",11/1/2022
+2023,Precision Eyeliner,Eyes,Phoenix,AZ,3,161,10," 1,610.00 ",8/1/2023
+2021,Precision Eyeliner,Eyes,Miami,FL,15,46,10, 460.00 ,5/1/2021
+2024,Cream Blush,Face,Philadelphia,PA,12,155,25," 3,875.00 ",11/1/2024
+2023,Cream Blush,Face,Boston,MA,2,97,25," 2,425.00 ",9/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Boston,MA,2,166,20," 3,320.00 ",6/1/2024
+2021,Matte Liquid Lipstick,Lips,Houston,TX,8,129,12," 1,548.00 ",7/1/2021
+2024,Radiant Concealer,Face,San Diego,CA,8,174,30," 5,220.00 ",8/1/2024
+2023,Flawless Foundation,Face,Washington D.C.,DC,15,104,40," 4,160.00 ",8/1/2023
+2024,Flawless Foundation,Face,Dallas,TX,10,124,40," 4,960.00 ",12/1/2024
+2021,Glossy Lip Stain,Lips,Miami,FL,13,68,8, 544.00 ,11/1/2021
+2021,Glossy Lip Stain,Lips,Chicago,IL,7,42,8, 336.00 ,11/1/2021
+2021,Luxe Mascara,Eyes,San Francisco,CA,7,93,15," 1,395.00 ",5/1/2021
+2024,Cream Blush,Face,Atlanta,GA,12,46,25," 1,150.00 ",8/1/2024
+2023,Matte Liquid Lipstick,Lips,Houston,TX,4,88,12," 1,056.00 ",9/1/2023
+2024,Precision Eyeliner,Eyes,Chicago,IL,19,40,10, 400.00 ,6/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,Dallas,TX,7,198,20," 3,960.00 ",12/1/2024
+2024,Illuminating Highlighter,Face,Phoenix,AZ,17,41,25," 1,025.00 ",12/1/2024
+2024,Illuminating Highlighter,Face,Boston,MA,8,109,25," 2,725.00 ",6/1/2024
+2023,Illuminating Highlighter,Face,San Diego,CA,1,91,25," 2,275.00 ",10/1/2023
+2021,Radiant Concealer,Face,Washington D.C.,DC,18,123,30," 3,690.00 ",7/1/2021
+2024,Flawless Foundation,Face,Los Angeles,CA,19,116,40," 4,640.00 ",2/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Chicago,IL,6,162,20," 3,240.00 ",4/1/2022
+2022,Glossy Lip Stain,Lips,Dallas,TX,4,150,8," 1,200.00 ",10/1/2022
+2022,Lip Liner Cream Pencil,Lips,Boston,MA,14,166,10," 1,660.00 ",6/1/2022
+2024,Illuminating Highlighter,Face,Washington D.C.,DC,3,107,25," 2,675.00 ",8/1/2024
+2022,Flawless Foundation,Face,New York,NY,17,118,40," 4,720.00 ",2/1/2022
+2023,Velvet Eyeshadow Palette,Eyes,Chicago,IL,19,172,20," 3,440.00 ",8/1/2023
+2022,Glossy Lip Stain,Lips,Houston,TX,8,83,8, 664.00 ,7/1/2022
+2023,Illuminating Highlighter,Face,Dallas,TX,10,73,25," 1,825.00 ",10/1/2023
+2022,Matte Liquid Lipstick,Lips,New York,NY,2,188,12," 2,256.00 ",4/1/2022
+2021,Luxe Mascara,Eyes,Las Vegas,NV,8,161,15," 2,415.00 ",7/1/2021
+2024,Lip Liner Cream Pencil,Lips,Miami,FL,18,52,10, 520.00 ,5/1/2024
+2021,Lip Liner Cream Pencil,Lips,Los Angeles,CA,2,127,10," 1,270.00 ",1/1/2021
+2022,Radiant Concealer,Face,Boston,MA,14,56,30," 1,680.00 ",8/1/2022
+2021,Matte Liquid Lipstick,Lips,Las Vegas,NV,19,61,12, 732.00 ,2/1/2021
+2024,Cream Blush,Face,Houston,TX,4,61,25," 1,525.00 ",9/1/2024
+2023,Precision Eyeliner,Eyes,Philadelphia,PA,8,62,10, 620.00 ,12/1/2023
+2021,Radiant Concealer,Face,Miami,FL,11,95,30," 2,850.00 ",12/1/2021
+2024,Flawless Foundation,Face,Las Vegas,NV,12,101,40," 4,040.00 ",12/1/2024
+2021,Matte Liquid Lipstick,Lips,Phoenix,AZ,19,45,12, 540.00 ,11/1/2021
+2024,Lip Liner Cream Pencil,Lips,Washington D.C.,DC,10,136,10," 1,360.00 ",1/1/2024
+2022,Precision Eyeliner,Eyes,Chicago,IL,6,63,10, 630.00 ,3/1/2022
+2022,Velvet Eyeshadow Palette,Eyes,San Diego,CA,12,185,20," 3,700.00 ",4/1/2022
+2023,Matte Liquid Lipstick,Lips,Phoenix,AZ,19,106,12," 1,272.00 ",12/1/2023
+2023,Lip Liner Cream Pencil,Lips,Las Vegas,NV,14,86,10, 860.00 ,2/1/2023
+2024,Glossy Lip Stain,Lips,Atlanta,GA,10,96,8, 768.00 ,2/1/2024
+2023,Precision Eyeliner,Eyes,San Diego,CA,4,40,10, 400.00 ,5/1/2023
+2021,Illuminating Highlighter,Face,New York,NY,18,102,25," 2,550.00 ",1/1/2021
+2022,Precision Eyeliner,Eyes,Phoenix,AZ,9,148,10," 1,480.00 ",2/1/2022
+2023,Illuminating Highlighter,Face,Detroit,MI,6,173,25," 4,325.00 ",12/1/2023
+2024,Radiant Concealer,Face,New York,NY,19,65,30," 1,950.00 ",9/1/2024
+2022,Precision Eyeliner,Eyes,Washington D.C.,DC,19,170,10," 1,700.00 ",10/1/2022
+2024,Lip Liner Cream Pencil,Lips,Detroit,MI,6,98,10, 980.00 ,12/1/2024
+2023,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,19,71,20," 1,420.00 ",4/1/2023
+2024,Matte Liquid Lipstick,Lips,Miami,FL,8,131,12," 1,572.00 ",4/1/2024
+2023,Lip Liner Cream Pencil,Lips,Houston,TX,8,120,10," 1,200.00 ",7/1/2023
+2024,Radiant Concealer,Face,Los Angeles,CA,14,44,30," 1,320.00 ",4/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,7,167,20," 3,340.00 ",4/1/2024
+2024,Matte Liquid Lipstick,Lips,Las Vegas,NV,16,51,12, 612.00 ,9/1/2024
+2024,Illuminating Highlighter,Face,Las Vegas,NV,9,47,25," 1,175.00 ",12/1/2024
+2022,Glossy Lip Stain,Lips,Phoenix,AZ,16,175,8," 1,400.00 ",3/1/2022
+2023,Illuminating Highlighter,Face,Phoenix,AZ,7,198,25," 4,950.00 ",12/1/2023
+2023,Lip Liner Cream Pencil,Lips,Las Vegas,NV,15,109,10," 1,090.00 ",9/1/2023
+2023,Flawless Foundation,Face,Atlanta,GA,2,81,40," 3,240.00 ",7/1/2023
+2023,Cream Blush,Face,Phoenix,AZ,7,73,25," 1,825.00 ",2/1/2023
+2024,Illuminating Highlighter,Face,Philadelphia,PA,19,74,25," 1,850.00 ",10/1/2024
+2021,Precision Eyeliner,Eyes,Las Vegas,NV,18,65,10, 650.00 ,3/1/2021
+2021,Lip Liner Cream Pencil,Lips,Houston,TX,12,57,10, 570.00 ,4/1/2021
+2023,Flawless Foundation,Face,Chicago,IL,1,116,40," 4,640.00 ",10/1/2023
+2023,Precision Eyeliner,Eyes,Dallas,TX,2,101,10," 1,010.00 ",9/1/2023
+2021,Lip Liner Cream Pencil,Lips,Miami,FL,11,157,10," 1,570.00 ",9/1/2021
+2023,Radiant Concealer,Face,Dallas,TX,4,164,30," 4,920.00 ",1/1/2023
+2023,Flawless Foundation,Face,Dallas,TX,19,74,40," 2,960.00 ",6/1/2023
+2023,Lip Liner Cream Pencil,Lips,Detroit,MI,1,153,10," 1,530.00 ",3/1/2023
+2023,Matte Liquid Lipstick,Lips,New York,NY,16,138,12," 1,656.00 ",1/1/2023
+2022,Velvet Eyeshadow Palette,Eyes,New York,NY,4,41,20, 820.00 ,7/1/2022
+2022,Radiant Concealer,Face,Washington D.C.,DC,10,102,30," 3,060.00 ",1/1/2022
+2021,Matte Liquid Lipstick,Lips,Dallas,TX,10,42,12, 504.00 ,11/1/2021
+2024,Illuminating Highlighter,Face,Boston,MA,16,75,25," 1,875.00 ",2/1/2024
+2021,Illuminating Highlighter,Face,Atlanta,GA,11,154,25," 3,850.00 ",5/1/2021
+2021,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,17,56,20," 1,120.00 ",3/1/2021
+2021,Lip Liner Cream Pencil,Lips,Houston,TX,9,148,10," 1,480.00 ",4/1/2021
+2021,Matte Liquid Lipstick,Lips,San Diego,CA,7,48,12, 576.00 ,12/1/2021
+2022,Radiant Concealer,Face,Chicago,IL,7,159,30," 4,770.00 ",5/1/2022
+2022,Velvet Eyeshadow Palette,Eyes,Detroit,MI,5,199,20," 3,980.00 ",1/1/2022
+2022,Flawless Foundation,Face,Atlanta,GA,7,175,40," 7,000.00 ",5/1/2022
+2021,Cream Blush,Face,Las Vegas,NV,18,124,25," 3,100.00 ",10/1/2021
+2024,Radiant Concealer,Face,Phoenix,AZ,6,65,30," 1,950.00 ",12/1/2024
+2022,Illuminating Highlighter,Face,Atlanta,GA,3,126,25," 3,150.00 ",1/1/2022
+2024,Flawless Foundation,Face,Chicago,IL,8,133,40," 5,320.00 ",3/1/2024
+2024,Radiant Concealer,Face,Boston,MA,13,66,30," 1,980.00 ",4/1/2024
+2022,Lip Liner Cream Pencil,Lips,Atlanta,GA,1,117,10," 1,170.00 ",1/1/2022
+2024,Lip Liner Cream Pencil,Lips,Dallas,TX,14,70,10, 700.00 ,12/1/2024
+2024,Luxe Mascara,Eyes,Atlanta,GA,13,103,15," 1,545.00 ",10/1/2024
+2022,Luxe Mascara,Eyes,Los Angeles,CA,7,160,15," 2,400.00 ",12/1/2022
+2024,Cream Blush,Face,Boston,MA,9,109,25," 2,725.00 ",5/1/2024
+2023,Lip Liner Cream Pencil,Lips,Chicago,IL,5,115,10," 1,150.00 ",6/1/2023
+2022,Luxe Mascara,Eyes,Chicago,IL,6,105,15," 1,575.00 ",9/1/2022
+2022,Cream Blush,Face,Phoenix,AZ,11,43,25," 1,075.00 ",10/1/2022
+2024,Flawless Foundation,Face,Washington D.C.,DC,18,134,40," 5,360.00 ",12/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Philadelphia,PA,2,75,20," 1,500.00 ",8/1/2022
+2023,Lip Liner Cream Pencil,Lips,Los Angeles,CA,8,93,10, 930.00 ,10/1/2023
+2022,Lip Liner Cream Pencil,Lips,Dallas,TX,11,181,10," 1,810.00 ",5/1/2022
+2024,Glossy Lip Stain,Lips,Chicago,IL,2,94,8, 752.00 ,3/1/2024
+2023,Velvet Eyeshadow Palette,Eyes,Chicago,IL,4,86,20," 1,720.00 ",7/1/2023
+2021,Glossy Lip Stain,Lips,Los Angeles,CA,7,97,8, 776.00 ,4/1/2021
+2024,Glossy Lip Stain,Lips,Detroit,MI,18,69,8, 552.00 ,11/1/2024
+2023,Radiant Concealer,Face,Chicago,IL,2,172,30," 5,160.00 ",8/1/2023
+2023,Illuminating Highlighter,Face,San Diego,CA,4,50,25," 1,250.00 ",12/1/2023
+2023,Glossy Lip Stain,Lips,Detroit,MI,2,137,8," 1,096.00 ",5/1/2023
+2024,Lip Liner Cream Pencil,Lips,Houston,TX,13,175,10," 1,750.00 ",4/1/2024
+2023,Cream Blush,Face,Las Vegas,NV,7,109,25," 2,725.00 ",7/1/2023
+2022,Flawless Foundation,Face,Washington D.C.,DC,1,52,40," 2,080.00 ",7/1/2022
+2024,Illuminating Highlighter,Face,Philadelphia,PA,13,82,25," 2,050.00 ",12/1/2024
+2023,Matte Liquid Lipstick,Lips,San Francisco,CA,8,164,12," 1,968.00 ",9/1/2023
+2022,Flawless Foundation,Face,Atlanta,GA,10,163,40," 6,520.00 ",6/1/2022
+2023,Flawless Foundation,Face,Boston,MA,9,162,40," 6,480.00 ",7/1/2023
+2022,Luxe Mascara,Eyes,New York,NY,17,64,15, 960.00 ,4/1/2022
+2021,Illuminating Highlighter,Face,New York,NY,3,143,25," 3,575.00 ",11/1/2021
+2021,Glossy Lip Stain,Lips,Los Angeles,CA,16,94,8, 752.00 ,7/1/2021
+2024,Lip Liner Cream Pencil,Lips,Phoenix,AZ,10,134,10," 1,340.00 ",6/1/2024
+2023,Radiant Concealer,Face,Philadelphia,PA,4,173,30," 5,190.00 ",12/1/2023
+2024,Flawless Foundation,Face,Atlanta,GA,8,95,40," 3,800.00 ",8/1/2024
+2021,Matte Liquid Lipstick,Lips,San Francisco,CA,7,174,12," 2,088.00 ",12/1/2021
+2022,Cream Blush,Face,Las Vegas,NV,6,129,25," 3,225.00 ",5/1/2022
+2024,Radiant Concealer,Face,Los Angeles,CA,17,121,30," 3,630.00 ",2/1/2024
+2023,Illuminating Highlighter,Face,Philadelphia,PA,9,195,25," 4,875.00 ",10/1/2023
+2023,Flawless Foundation,Face,Chicago,IL,13,51,40," 2,040.00 ",9/1/2023
+2021,Cream Blush,Face,San Diego,CA,5,54,25," 1,350.00 ",11/1/2021
+2024,Lip Liner Cream Pencil,Lips,Miami,FL,14,190,10," 1,900.00 ",5/1/2024
+2024,Lip Liner Cream Pencil,Lips,Miami,FL,14,56,10, 560.00 ,12/1/2024
+2024,Glossy Lip Stain,Lips,Phoenix,AZ,9,162,8," 1,296.00 ",10/1/2024
+2024,Precision Eyeliner,Eyes,Miami,FL,6,56,10, 560.00 ,3/1/2024
+2021,Velvet Eyeshadow Palette,Eyes,Boston,MA,17,106,20," 2,120.00 ",1/1/2021
+2023,Flawless Foundation,Face,Los Angeles,CA,4,106,40," 4,240.00 ",12/1/2023
+2023,Radiant Concealer,Face,Houston,TX,15,91,30," 2,730.00 ",8/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,4,158,20," 3,160.00 ",9/1/2024
+2022,Cream Blush,Face,Chicago,IL,14,180,25," 4,500.00 ",2/1/2022
+2022,Matte Liquid Lipstick,Lips,Phoenix,AZ,18,44,12, 528.00 ,6/1/2022
+2024,Flawless Foundation,Face,Boston,MA,17,107,40," 4,280.00 ",8/1/2024
+2022,Radiant Concealer,Face,Chicago,IL,7,144,30," 4,320.00 ",8/1/2022
+2022,Matte Liquid Lipstick,Lips,Washington D.C.,DC,6,143,12," 1,716.00 ",6/1/2022
+2022,Glossy Lip Stain,Lips,Philadelphia,PA,13,70,8, 560.00 ,8/1/2022
+2021,Precision Eyeliner,Eyes,Phoenix,AZ,18,173,10," 1,730.00 ",8/1/2021
+2024,Lip Liner Cream Pencil,Lips,Houston,TX,13,130,10," 1,300.00 ",2/1/2024
+2021,Luxe Mascara,Eyes,Washington D.C.,DC,15,51,15, 765.00 ,2/1/2021
+2021,Flawless Foundation,Face,Washington D.C.,DC,9,70,40," 2,800.00 ",4/1/2021
+2024,Luxe Mascara,Eyes,Philadelphia,PA,17,49,15, 735.00 ,5/1/2024
+2024,Radiant Concealer,Face,Philadelphia,PA,14,60,30," 1,800.00 ",3/1/2024
+2021,Glossy Lip Stain,Lips,Miami,FL,15,127,8," 1,016.00 ",4/1/2021
+2023,Velvet Eyeshadow Palette,Eyes,San Francisco,CA,17,136,20," 2,720.00 ",4/1/2023
+2024,Cream Blush,Face,Phoenix,AZ,14,89,25," 2,225.00 ",3/1/2024
+2023,Radiant Concealer,Face,Phoenix,AZ,13,99,30," 2,970.00 ",6/1/2023
+2024,Precision Eyeliner,Eyes,Boston,MA,4,134,10," 1,340.00 ",12/1/2024
+2021,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,1,117,20," 2,340.00 ",1/1/2021
+2021,Glossy Lip Stain,Lips,Houston,TX,8,198,8," 1,584.00 ",12/1/2021
+2021,Precision Eyeliner,Eyes,Atlanta,GA,2,156,10," 1,560.00 ",4/1/2021
+2024,Radiant Concealer,Face,Chicago,IL,12,100,30," 3,000.00 ",1/1/2024
+2022,Glossy Lip Stain,Lips,Las Vegas,NV,12,165,8," 1,320.00 ",6/1/2022
+2024,Matte Liquid Lipstick,Lips,Atlanta,GA,8,193,12," 2,316.00 ",12/1/2024
+2023,Radiant Concealer,Face,Detroit,MI,19,121,30," 3,630.00 ",9/1/2023
+2023,Radiant Concealer,Face,San Diego,CA,13,191,30," 5,730.00 ",4/1/2023
+2023,Matte Liquid Lipstick,Lips,San Francisco,CA,8,92,12," 1,104.00 ",1/1/2023
+2022,Precision Eyeliner,Eyes,Houston,TX,13,44,10, 440.00 ,5/1/2022
+2022,Illuminating Highlighter,Face,Dallas,TX,19,141,25," 3,525.00 ",4/1/2022
+2024,Matte Liquid Lipstick,Lips,Washington D.C.,DC,18,48,12, 576.00 ,6/1/2024
+2022,Glossy Lip Stain,Lips,Boston,MA,7,133,8," 1,064.00 ",11/1/2022
+2024,Radiant Concealer,Face,Philadelphia,PA,9,188,30," 5,640.00 ",4/1/2024
+2023,Lip Liner Cream Pencil,Lips,Chicago,IL,12,187,10," 1,870.00 ",9/1/2023
+2024,Glossy Lip Stain,Lips,Atlanta,GA,15,109,8, 872.00 ,7/1/2024
+2021,Precision Eyeliner,Eyes,San Diego,CA,4,69,10, 690.00 ,12/1/2021
+2023,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,6,55,20," 1,100.00 ",9/1/2023
+2021,Illuminating Highlighter,Face,Boston,MA,5,87,25," 2,175.00 ",12/1/2021
+2024,Illuminating Highlighter,Face,New York,NY,5,56,25," 1,400.00 ",1/1/2024
+2023,Illuminating Highlighter,Face,New York,NY,12,170,25," 4,250.00 ",12/1/2023
+2021,Matte Liquid Lipstick,Lips,Boston,MA,6,89,12," 1,068.00 ",6/1/2021
+2022,Illuminating Highlighter,Face,New York,NY,17,110,25," 2,750.00 ",3/1/2022
+2024,Cream Blush,Face,San Diego,CA,5,153,25," 3,825.00 ",4/1/2024
+2021,Flawless Foundation,Face,New York,NY,11,96,40," 3,840.00 ",4/1/2021
+2023,Cream Blush,Face,Miami,FL,11,108,25," 2,700.00 ",6/1/2023
+2022,Lip Liner Cream Pencil,Lips,Phoenix,AZ,15,133,10," 1,330.00 ",3/1/2022
+2023,Cream Blush,Face,Las Vegas,NV,8,75,25," 1,875.00 ",12/1/2023
+2021,Glossy Lip Stain,Lips,Boston,MA,3,148,8," 1,184.00 ",10/1/2021
+2022,Luxe Mascara,Eyes,Philadelphia,PA,5,97,15," 1,455.00 ",6/1/2022
+2024,Lip Liner Cream Pencil,Lips,Boston,MA,7,131,10," 1,310.00 ",7/1/2024
+2022,Luxe Mascara,Eyes,Chicago,IL,8,184,15," 2,760.00 ",5/1/2022
+2023,Luxe Mascara,Eyes,Washington D.C.,DC,9,65,15, 975.00 ,9/1/2023
+2022,Precision Eyeliner,Eyes,New York,NY,10,55,10, 550.00 ,11/1/2022
+2024,Lip Liner Cream Pencil,Lips,San Diego,CA,19,122,10," 1,220.00 ",4/1/2024
+2022,Matte Liquid Lipstick,Lips,Washington D.C.,DC,15,167,12," 2,004.00 ",11/1/2022
+2023,Precision Eyeliner,Eyes,Los Angeles,CA,17,107,10," 1,070.00 ",7/1/2023
+2023,Luxe Mascara,Eyes,Washington D.C.,DC,1,40,15, 600.00 ,7/1/2023
+2024,Matte Liquid Lipstick,Lips,Los Angeles,CA,14,114,12," 1,368.00 ",4/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Boston,MA,18,145,20," 2,900.00 ",8/1/2022
+2021,Radiant Concealer,Face,Miami,FL,18,176,30," 5,280.00 ",1/1/2021
+2023,Flawless Foundation,Face,Los Angeles,CA,11,57,40," 2,280.00 ",12/1/2023
+2023,Flawless Foundation,Face,Boston,MA,17,107,40," 4,280.00 ",10/1/2023
+2023,Luxe Mascara,Eyes,Houston,TX,5,110,15," 1,650.00 ",2/1/2023
+2021,Radiant Concealer,Face,Houston,TX,10,87,30," 2,610.00 ",3/1/2021
+2021,Precision Eyeliner,Eyes,San Diego,CA,14,194,10," 1,940.00 ",2/1/2021
+2022,Precision Eyeliner,Eyes,Houston,TX,6,69,10, 690.00 ,8/1/2022
+2021,Radiant Concealer,Face,Las Vegas,NV,4,51,30," 1,530.00 ",7/1/2021
+2021,Illuminating Highlighter,Face,Los Angeles,CA,7,133,25," 3,325.00 ",5/1/2021
+2023,Luxe Mascara,Eyes,Phoenix,AZ,15,176,15," 2,640.00 ",4/1/2023
+2021,Illuminating Highlighter,Face,Las Vegas,NV,13,185,25," 4,625.00 ",1/1/2021
+2022,Glossy Lip Stain,Lips,Phoenix,AZ,3,186,8," 1,488.00 ",8/1/2022
+2021,Precision Eyeliner,Eyes,Washington D.C.,DC,17,170,10," 1,700.00 ",7/1/2021
+2023,Lip Liner Cream Pencil,Lips,Detroit,MI,10,152,10," 1,520.00 ",12/1/2023
+2021,Precision Eyeliner,Eyes,Philadelphia,PA,5,128,10," 1,280.00 ",4/1/2021
+2022,Precision Eyeliner,Eyes,Chicago,IL,10,195,10," 1,950.00 ",4/1/2022
+2023,Luxe Mascara,Eyes,San Diego,CA,7,56,15, 840.00 ,5/1/2023
+2021,Illuminating Highlighter,Face,Miami,FL,11,186,25," 4,650.00 ",9/1/2021
+2022,Lip Liner Cream Pencil,Lips,San Diego,CA,4,195,10," 1,950.00 ",3/1/2022
+2021,Cream Blush,Face,Detroit,MI,7,123,25," 3,075.00 ",5/1/2021
+2024,Cream Blush,Face,Boston,MA,12,81,25," 2,025.00 ",4/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,New York,NY,5,153,20," 3,060.00 ",11/1/2024
+2021,Glossy Lip Stain,Lips,Philadelphia,PA,5,92,8, 736.00 ,12/1/2021
+2023,Luxe Mascara,Eyes,Philadelphia,PA,6,193,15," 2,895.00 ",10/1/2023
+2022,Illuminating Highlighter,Face,Boston,MA,9,76,25," 1,900.00 ",4/1/2022
+2024,Flawless Foundation,Face,Washington D.C.,DC,13,56,40," 2,240.00 ",4/1/2024
+2024,Cream Blush,Face,Phoenix,AZ,3,107,25," 2,675.00 ",6/1/2024
+2024,Radiant Concealer,Face,Boston,MA,16,40,30," 1,200.00 ",5/1/2024
+2024,Lip Liner Cream Pencil,Lips,Las Vegas,NV,17,145,10," 1,450.00 ",5/1/2024
+2024,Glossy Lip Stain,Lips,San Diego,CA,3,179,8," 1,432.00 ",8/1/2024
+2021,Cream Blush,Face,Philadelphia,PA,4,54,25," 1,350.00 ",5/1/2021
+2022,Lip Liner Cream Pencil,Lips,Houston,TX,6,45,10, 450.00 ,6/1/2022
+2022,Illuminating Highlighter,Face,Washington D.C.,DC,3,183,25," 4,575.00 ",10/1/2022
+2023,Lip Liner Cream Pencil,Lips,Philadelphia,PA,6,119,10," 1,190.00 ",11/1/2023
+2021,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,12,103,20," 2,060.00 ",9/1/2021
+2022,Precision Eyeliner,Eyes,Atlanta,GA,3,174,10," 1,740.00 ",5/1/2022
+2021,Lip Liner Cream Pencil,Lips,San Diego,CA,14,167,10," 1,670.00 ",2/1/2021
+2022,Illuminating Highlighter,Face,Detroit,MI,9,185,25," 4,625.00 ",4/1/2022
+2024,Precision Eyeliner,Eyes,Detroit,MI,19,48,10, 480.00 ,3/1/2024
+2022,Glossy Lip Stain,Lips,Dallas,TX,3,165,8," 1,320.00 ",9/1/2022
+2022,Velvet Eyeshadow Palette,Eyes,Boston,MA,6,41,20, 820.00 ,4/1/2022
+2021,Precision Eyeliner,Eyes,New York,NY,7,50,10, 500.00 ,5/1/2021
+2022,Illuminating Highlighter,Face,San Diego,CA,12,176,25," 4,400.00 ",1/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,San Diego,CA,4,148,20," 2,960.00 ",10/1/2024
+2022,Illuminating Highlighter,Face,Chicago,IL,16,114,25," 2,850.00 ",8/1/2022
+2023,Cream Blush,Face,Miami,FL,18,187,25," 4,675.00 ",11/1/2023
+2024,Precision Eyeliner,Eyes,Las Vegas,NV,19,126,10," 1,260.00 ",5/1/2024
+2023,Flawless Foundation,Face,Atlanta,GA,12,101,40," 4,040.00 ",12/1/2023
+2021,Precision Eyeliner,Eyes,Boston,MA,17,48,10, 480.00 ,12/1/2021
+2022,Glossy Lip Stain,Lips,Atlanta,GA,14,93,8, 744.00 ,9/1/2022
+2022,Radiant Concealer,Face,Miami,FL,10,161,30," 4,830.00 ",4/1/2022
+2021,Velvet Eyeshadow Palette,Eyes,San Diego,CA,1,193,20," 3,860.00 ",3/1/2021
+2024,Luxe Mascara,Eyes,San Diego,CA,8,136,15," 2,040.00 ",5/1/2024
+2021,Velvet Eyeshadow Palette,Eyes,San Francisco,CA,7,120,20," 2,400.00 ",6/1/2021
+2022,Flawless Foundation,Face,San Francisco,CA,6,98,40," 3,920.00 ",8/1/2022
+2022,Glossy Lip Stain,Lips,Detroit,MI,15,71,8, 568.00 ,4/1/2022
+2022,Cream Blush,Face,Houston,TX,3,61,25," 1,525.00 ",5/1/2022
+2021,Luxe Mascara,Eyes,New York,NY,15,97,15," 1,455.00 ",10/1/2021
+2024,Radiant Concealer,Face,Los Angeles,CA,15,132,30," 3,960.00 ",9/1/2024
+2022,Glossy Lip Stain,Lips,Atlanta,GA,10,79,8, 632.00 ,7/1/2022
+2021,Luxe Mascara,Eyes,Miami,FL,5,140,15," 2,100.00 ",4/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,3,192,20," 3,840.00 ",3/1/2024
+2023,Matte Liquid Lipstick,Lips,San Francisco,CA,3,119,12," 1,428.00 ",8/1/2023
+2024,Radiant Concealer,Face,Washington D.C.,DC,13,99,30," 2,970.00 ",6/1/2024
+2021,Precision Eyeliner,Eyes,Houston,TX,5,75,10, 750.00 ,10/1/2021
+2024,Glossy Lip Stain,Lips,Phoenix,AZ,5,140,8," 1,120.00 ",11/1/2024
+2023,Precision Eyeliner,Eyes,Chicago,IL,11,184,10," 1,840.00 ",2/1/2023
+2021,Matte Liquid Lipstick,Lips,Los Angeles,CA,3,185,12," 2,220.00 ",11/1/2021
+2023,Flawless Foundation,Face,Phoenix,AZ,5,53,40," 2,120.00 ",5/1/2023
+2023,Matte Liquid Lipstick,Lips,Las Vegas,NV,1,72,12, 864.00 ,7/1/2023
+2024,Flawless Foundation,Face,Atlanta,GA,2,51,40," 2,040.00 ",1/1/2024
+2023,Lip Liner Cream Pencil,Lips,Chicago,IL,7,193,10," 1,930.00 ",1/1/2023
+2024,Glossy Lip Stain,Lips,Las Vegas,NV,4,188,8," 1,504.00 ",10/1/2024
+2021,Illuminating Highlighter,Face,Boston,MA,9,60,25," 1,500.00 ",9/1/2021
+2023,Cream Blush,Face,Phoenix,AZ,5,161,25," 4,025.00 ",10/1/2023
+2023,Illuminating Highlighter,Face,Dallas,TX,19,116,25," 2,900.00 ",7/1/2023
+2024,Precision Eyeliner,Eyes,Boston,MA,14,77,10, 770.00 ,2/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Washington D.C.,DC,3,113,20," 2,260.00 ",6/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,11,168,20," 3,360.00 ",10/1/2024
+2021,Luxe Mascara,Eyes,Phoenix,AZ,15,107,15," 1,605.00 ",2/1/2021
+2022,Cream Blush,Face,San Diego,CA,9,197,25," 4,925.00 ",12/1/2022
+2022,Precision Eyeliner,Eyes,Houston,TX,16,181,10," 1,810.00 ",4/1/2022
+2024,Matte Liquid Lipstick,Lips,Miami,FL,19,176,12," 2,112.00 ",11/1/2024
+2023,Precision Eyeliner,Eyes,Las Vegas,NV,11,119,10," 1,190.00 ",1/1/2023
+2021,Matte Liquid Lipstick,Lips,Philadelphia,PA,15,74,12, 888.00 ,3/1/2021
+2022,Velvet Eyeshadow Palette,Eyes,Miami,FL,18,100,20," 2,000.00 ",7/1/2022
+2023,Glossy Lip Stain,Lips,Boston,MA,15,100,8, 800.00 ,5/1/2023
+2022,Matte Liquid Lipstick,Lips,Philadelphia,PA,18,198,12," 2,376.00 ",1/1/2022
+2021,Velvet Eyeshadow Palette,Eyes,San Diego,CA,16,93,20," 1,860.00 ",2/1/2021
+2022,Glossy Lip Stain,Lips,New York,NY,18,94,8, 752.00 ,11/1/2022
+2023,Luxe Mascara,Eyes,Phoenix,AZ,8,146,15," 2,190.00 ",2/1/2023
+2023,Matte Liquid Lipstick,Lips,Houston,TX,11,104,12," 1,248.00 ",3/1/2023
+2022,Lip Liner Cream Pencil,Lips,Detroit,MI,19,84,10, 840.00 ,10/1/2022
+2024,Flawless Foundation,Face,Philadelphia,PA,3,166,40," 6,640.00 ",12/1/2024
+2022,Cream Blush,Face,San Francisco,CA,8,115,25," 2,875.00 ",12/1/2022
+2021,Precision Eyeliner,Eyes,Los Angeles,CA,19,195,10," 1,950.00 ",8/1/2021
+2023,Matte Liquid Lipstick,Lips,Las Vegas,NV,8,58,12, 696.00 ,10/1/2023
+2024,Lip Liner Cream Pencil,Lips,Philadelphia,PA,7,90,10, 900.00 ,7/1/2024
+2022,Precision Eyeliner,Eyes,San Francisco,CA,19,125,10," 1,250.00 ",9/1/2022
+2024,Lip Liner Cream Pencil,Lips,New York,NY,4,46,10, 460.00 ,3/1/2024
+2024,Illuminating Highlighter,Face,Los Angeles,CA,8,105,25," 2,625.00 ",2/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Detroit,MI,10,48,20, 960.00 ,7/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,Detroit,MI,4,137,20," 2,740.00 ",1/1/2024
+2023,Precision Eyeliner,Eyes,Phoenix,AZ,3,107,10," 1,070.00 ",12/1/2023
+2021,Luxe Mascara,Eyes,Dallas,TX,12,108,15," 1,620.00 ",9/1/2021
+2023,Glossy Lip Stain,Lips,Houston,TX,7,151,8," 1,208.00 ",6/1/2023
+2024,Lip Liner Cream Pencil,Lips,Philadelphia,PA,14,114,10," 1,140.00 ",3/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,Washington D.C.,DC,14,97,20," 1,940.00 ",6/1/2024
+2023,Matte Liquid Lipstick,Lips,Houston,TX,5,177,12," 2,124.00 ",1/1/2023
+2021,Glossy Lip Stain,Lips,Los Angeles,CA,10,199,8," 1,592.00 ",10/1/2021
+2024,Glossy Lip Stain,Lips,New York,NY,11,179,8," 1,432.00 ",10/1/2024
+2024,Radiant Concealer,Face,Atlanta,GA,19,199,30," 5,970.00 ",1/1/2024
+2023,Illuminating Highlighter,Face,Washington D.C.,DC,17,134,25," 3,350.00 ",3/1/2023
+2021,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,12,102,20," 2,040.00 ",12/1/2021
+2023,Matte Liquid Lipstick,Lips,Philadelphia,PA,8,103,12," 1,236.00 ",4/1/2023
+2024,Matte Liquid Lipstick,Lips,Phoenix,AZ,19,120,12," 1,440.00 ",10/1/2024
+2021,Luxe Mascara,Eyes,Detroit,MI,9,196,15," 2,940.00 ",1/1/2021
+2023,Radiant Concealer,Face,Philadelphia,PA,16,195,30," 5,850.00 ",10/1/2023
+2021,Flawless Foundation,Face,Boston,MA,12,148,40," 5,920.00 ",1/1/2021
+2022,Flawless Foundation,Face,Washington D.C.,DC,11,40,40," 1,600.00 ",11/1/2022
+2021,Matte Liquid Lipstick,Lips,San Diego,CA,11,92,12," 1,104.00 ",3/1/2021
+2022,Illuminating Highlighter,Face,Phoenix,AZ,8,152,25," 3,800.00 ",2/1/2022
+2021,Precision Eyeliner,Eyes,Las Vegas,NV,11,50,10, 500.00 ,11/1/2021
+2021,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,12,102,20," 2,040.00 ",9/1/2021
+2023,Precision Eyeliner,Eyes,Boston,MA,4,125,10," 1,250.00 ",11/1/2023
+2022,Precision Eyeliner,Eyes,Miami,FL,18,172,10," 1,720.00 ",2/1/2022
+2023,Luxe Mascara,Eyes,Chicago,IL,15,172,15," 2,580.00 ",10/1/2023
+2024,Illuminating Highlighter,Face,Philadelphia,PA,19,159,25," 3,975.00 ",1/1/2024
+2024,Cream Blush,Face,San Francisco,CA,7,49,25," 1,225.00 ",2/1/2024
+2024,Flawless Foundation,Face,New York,NY,9,57,40," 2,280.00 ",4/1/2024
+2022,Flawless Foundation,Face,Boston,MA,18,139,40," 5,560.00 ",2/1/2022
+2024,Luxe Mascara,Eyes,Phoenix,AZ,4,66,15, 990.00 ,6/1/2024
+2023,Glossy Lip Stain,Lips,Atlanta,GA,17,87,8, 696.00 ,7/1/2023
+2022,Flawless Foundation,Face,Houston,TX,3,66,40," 2,640.00 ",12/1/2022
+2023,Glossy Lip Stain,Lips,Boston,MA,13,119,8, 952.00 ,9/1/2023
+2023,Radiant Concealer,Face,Philadelphia,PA,18,88,30," 2,640.00 ",4/1/2023
+2022,Luxe Mascara,Eyes,Chicago,IL,19,87,15," 1,305.00 ",10/1/2022
+2023,Illuminating Highlighter,Face,Phoenix,AZ,16,81,25," 2,025.00 ",3/1/2023
+2024,Radiant Concealer,Face,Los Angeles,CA,1,72,30," 2,160.00 ",7/1/2024
+2022,Cream Blush,Face,Philadelphia,PA,10,69,25," 1,725.00 ",5/1/2022
+2024,Flawless Foundation,Face,San Diego,CA,14,184,40," 7,360.00 ",9/1/2024
+2023,Flawless Foundation,Face,Atlanta,GA,1,179,40," 7,160.00 ",12/1/2023
+2023,Luxe Mascara,Eyes,Atlanta,GA,8,132,15," 1,980.00 ",3/1/2023
+2023,Illuminating Highlighter,Face,Chicago,IL,2,131,25," 3,275.00 ",6/1/2023
+2024,Illuminating Highlighter,Face,San Francisco,CA,1,166,25," 4,150.00 ",11/1/2024
+2024,Lip Liner Cream Pencil,Lips,San Francisco,CA,2,54,10, 540.00 ,10/1/2024
+2021,Matte Liquid Lipstick,Lips,Philadelphia,PA,11,92,12," 1,104.00 ",7/1/2021
+2022,Illuminating Highlighter,Face,Phoenix,AZ,19,123,25," 3,075.00 ",3/1/2022
+2021,Velvet Eyeshadow Palette,Eyes,New York,NY,12,44,20, 880.00 ,3/1/2021
+2024,Luxe Mascara,Eyes,San Diego,CA,18,54,15, 810.00 ,6/1/2024
+2024,Illuminating Highlighter,Face,San Francisco,CA,2,198,25," 4,950.00 ",8/1/2024
+2024,Glossy Lip Stain,Lips,Philadelphia,PA,7,125,8," 1,000.00 ",9/1/2024
+2022,Illuminating Highlighter,Face,Washington D.C.,DC,3,104,25," 2,600.00 ",9/1/2022
+2021,Lip Liner Cream Pencil,Lips,New York,NY,3,161,10," 1,610.00 ",12/1/2021
+2023,Radiant Concealer,Face,Houston,TX,17,147,30," 4,410.00 ",11/1/2023
+2023,Flawless Foundation,Face,Washington D.C.,DC,15,149,40," 5,960.00 ",1/1/2023
+2024,Lip Liner Cream Pencil,Lips,Houston,TX,5,42,10, 420.00 ,9/1/2024
+2024,Glossy Lip Stain,Lips,San Diego,CA,2,123,8, 984.00 ,9/1/2024
+2022,Precision Eyeliner,Eyes,Philadelphia,PA,8,138,10," 1,380.00 ",12/1/2022
+2022,Velvet Eyeshadow Palette,Eyes,San Diego,CA,4,120,20," 2,400.00 ",10/1/2022
+2022,Lip Liner Cream Pencil,Lips,San Francisco,CA,1,123,10," 1,230.00 ",3/1/2022
+2021,Glossy Lip Stain,Lips,San Diego,CA,9,97,8, 776.00 ,10/1/2021
+2024,Glossy Lip Stain,Lips,New York,NY,8,100,8, 800.00 ,12/1/2024
+2022,Flawless Foundation,Face,Washington D.C.,DC,12,88,40," 3,520.00 ",8/1/2022
+2023,Illuminating Highlighter,Face,San Francisco,CA,17,89,25," 2,225.00 ",4/1/2023
+2022,Lip Liner Cream Pencil,Lips,Philadelphia,PA,18,57,10, 570.00 ,10/1/2022
+2024,Radiant Concealer,Face,Dallas,TX,2,179,30," 5,370.00 ",5/1/2024
+2024,Precision Eyeliner,Eyes,Dallas,TX,12,50,10, 500.00 ,7/1/2024
+2022,Flawless Foundation,Face,Houston,TX,4,111,40," 4,440.00 ",7/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,16,74,20," 1,480.00 ",5/1/2024
+2024,Matte Liquid Lipstick,Lips,Philadelphia,PA,13,98,12," 1,176.00 ",5/1/2024
+2024,Glossy Lip Stain,Lips,Boston,MA,17,182,8," 1,456.00 ",3/1/2024
+2022,Precision Eyeliner,Eyes,New York,NY,1,134,10," 1,340.00 ",7/1/2022
+2022,Illuminating Highlighter,Face,New York,NY,4,146,25," 3,650.00 ",8/1/2022
+2022,Glossy Lip Stain,Lips,New York,NY,18,84,8, 672.00 ,1/1/2022
+2021,Radiant Concealer,Face,Las Vegas,NV,8,98,30," 2,940.00 ",10/1/2021
+2024,Precision Eyeliner,Eyes,Houston,TX,11,149,10," 1,490.00 ",1/1/2024
+2024,Matte Liquid Lipstick,Lips,Dallas,TX,3,82,12, 984.00 ,4/1/2024
+2024,Matte Liquid Lipstick,Lips,San Diego,CA,6,173,12," 2,076.00 ",7/1/2024
+2024,Matte Liquid Lipstick,Lips,San Francisco,CA,10,57,12, 684.00 ,10/1/2024
+2024,Cream Blush,Face,Chicago,IL,18,107,25," 2,675.00 ",9/1/2024
+2022,Flawless Foundation,Face,Detroit,MI,17,194,40," 7,760.00 ",3/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,New York,NY,14,98,20," 1,960.00 ",5/1/2024
+2022,Cream Blush,Face,Houston,TX,3,196,25," 4,900.00 ",3/1/2022
+2023,Glossy Lip Stain,Lips,Detroit,MI,5,182,8," 1,456.00 ",9/1/2023
+2024,Flawless Foundation,Face,Philadelphia,PA,19,179,40," 7,160.00 ",9/1/2024
+2023,Matte Liquid Lipstick,Lips,Detroit,MI,19,168,12," 2,016.00 ",11/1/2023
+2023,Flawless Foundation,Face,San Francisco,CA,4,176,40," 7,040.00 ",6/1/2023
+2023,Radiant Concealer,Face,Las Vegas,NV,1,170,30," 5,100.00 ",6/1/2023
+2021,Matte Liquid Lipstick,Lips,San Francisco,CA,12,51,12, 612.00 ,11/1/2021
+2022,Matte Liquid Lipstick,Lips,Washington D.C.,DC,9,72,12, 864.00 ,7/1/2022
+2023,Precision Eyeliner,Eyes,Detroit,MI,13,105,10," 1,050.00 ",5/1/2023
+2021,Glossy Lip Stain,Lips,Washington D.C.,DC,18,47,8, 376.00 ,1/1/2021
+2021,Lip Liner Cream Pencil,Lips,Detroit,MI,13,56,10, 560.00 ,12/1/2021
+2021,Glossy Lip Stain,Lips,Atlanta,GA,9,199,8," 1,592.00 ",2/1/2021
+2021,Precision Eyeliner,Eyes,Philadelphia,PA,17,55,10, 550.00 ,5/1/2021
+2023,Matte Liquid Lipstick,Lips,Phoenix,AZ,9,194,12," 2,328.00 ",1/1/2023
+2021,Flawless Foundation,Face,Phoenix,AZ,4,82,40," 3,280.00 ",9/1/2021
+2023,Radiant Concealer,Face,Atlanta,GA,12,56,30," 1,680.00 ",9/1/2023
+2022,Radiant Concealer,Face,Los Angeles,CA,10,130,30," 3,900.00 ",11/1/2022
+2022,Glossy Lip Stain,Lips,Chicago,IL,17,105,8, 840.00 ,8/1/2022
+2022,Radiant Concealer,Face,Los Angeles,CA,19,181,30," 5,430.00 ",1/1/2022
+2022,Luxe Mascara,Eyes,New York,NY,14,154,15," 2,310.00 ",4/1/2022
+2021,Glossy Lip Stain,Lips,Las Vegas,NV,11,111,8, 888.00 ,2/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Chicago,IL,11,161,20," 3,220.00 ",10/1/2024
+2022,Precision Eyeliner,Eyes,Las Vegas,NV,16,103,10," 1,030.00 ",7/1/2022
+2022,Luxe Mascara,Eyes,Chicago,IL,14,133,15," 1,995.00 ",11/1/2022
+2021,Cream Blush,Face,Chicago,IL,2,127,25," 3,175.00 ",4/1/2021
+2024,Lip Liner Cream Pencil,Lips,Phoenix,AZ,10,104,10," 1,040.00 ",2/1/2024
+2023,Radiant Concealer,Face,Houston,TX,2,51,30," 1,530.00 ",12/1/2023
+2024,Illuminating Highlighter,Face,San Francisco,CA,1,190,25," 4,750.00 ",4/1/2024
+2021,Luxe Mascara,Eyes,San Francisco,CA,19,55,15, 825.00 ,1/1/2021
+2022,Radiant Concealer,Face,Houston,TX,2,141,30," 4,230.00 ",8/1/2022
+2023,Luxe Mascara,Eyes,Detroit,MI,7,150,15," 2,250.00 ",11/1/2023
+2021,Illuminating Highlighter,Face,Los Angeles,CA,2,59,25," 1,475.00 ",8/1/2021
+2023,Illuminating Highlighter,Face,Houston,TX,3,42,25," 1,050.00 ",2/1/2023
+2021,Glossy Lip Stain,Lips,Miami,FL,11,124,8, 992.00 ,7/1/2021
+2021,Flawless Foundation,Face,Chicago,IL,18,62,40," 2,480.00 ",3/1/2021
+2021,Glossy Lip Stain,Lips,Houston,TX,5,156,8," 1,248.00 ",1/1/2021
+2021,Cream Blush,Face,San Francisco,CA,1,189,25," 4,725.00 ",11/1/2021
+2022,Lip Liner Cream Pencil,Lips,Los Angeles,CA,9,88,10, 880.00 ,5/1/2022
+2021,Glossy Lip Stain,Lips,New York,NY,12,60,8, 480.00 ,2/1/2021
+2024,Cream Blush,Face,Miami,FL,5,105,25," 2,625.00 ",11/1/2024
+2021,Flawless Foundation,Face,Washington D.C.,DC,13,122,40," 4,880.00 ",12/1/2021
+2021,Velvet Eyeshadow Palette,Eyes,Philadelphia,PA,11,134,20," 2,680.00 ",11/1/2021
+2022,Velvet Eyeshadow Palette,Eyes,Houston,TX,17,103,20," 2,060.00 ",10/1/2022
+2023,Cream Blush,Face,Chicago,IL,15,94,25," 2,350.00 ",12/1/2023
+2023,Radiant Concealer,Face,Dallas,TX,9,73,30," 2,190.00 ",11/1/2023
+2024,Illuminating Highlighter,Face,Los Angeles,CA,14,164,25," 4,100.00 ",9/1/2024
+2022,Matte Liquid Lipstick,Lips,Chicago,IL,5,198,12," 2,376.00 ",6/1/2022
+2021,Glossy Lip Stain,Lips,Detroit,MI,19,58,8, 464.00 ,11/1/2021
+2021,Cream Blush,Face,Phoenix,AZ,10,124,25," 3,100.00 ",4/1/2021
+2024,Matte Liquid Lipstick,Lips,San Francisco,CA,11,49,12, 588.00 ,2/1/2024
+2024,Lip Liner Cream Pencil,Lips,Houston,TX,7,74,10, 740.00 ,10/1/2024
+2021,Precision Eyeliner,Eyes,Miami,FL,7,100,10," 1,000.00 ",2/1/2021
+2021,Luxe Mascara,Eyes,Philadelphia,PA,1,145,15," 2,175.00 ",12/1/2021
+2022,Luxe Mascara,Eyes,Chicago,IL,4,153,15," 2,295.00 ",11/1/2022
+2021,Glossy Lip Stain,Lips,Las Vegas,NV,14,197,8," 1,576.00 ",2/1/2021
+2023,Glossy Lip Stain,Lips,Phoenix,AZ,15,132,8," 1,056.00 ",4/1/2023
+2022,Glossy Lip Stain,Lips,New York,NY,7,155,8," 1,240.00 ",4/1/2022
+2022,Flawless Foundation,Face,Philadelphia,PA,2,115,40," 4,600.00 ",11/1/2022
+2021,Precision Eyeliner,Eyes,Washington D.C.,DC,17,160,10," 1,600.00 ",10/1/2021
+2023,Lip Liner Cream Pencil,Lips,Miami,FL,3,57,10, 570.00 ,12/1/2023
+2023,Matte Liquid Lipstick,Lips,Phoenix,AZ,15,84,12," 1,008.00 ",3/1/2023
+2023,Velvet Eyeshadow Palette,Eyes,Boston,MA,3,74,20," 1,480.00 ",12/1/2023
+2024,Luxe Mascara,Eyes,San Diego,CA,1,74,15," 1,110.00 ",1/1/2024
+2021,Precision Eyeliner,Eyes,Miami,FL,15,88,10, 880.00 ,7/1/2021
+2023,Precision Eyeliner,Eyes,New York,NY,14,66,10, 660.00 ,6/1/2023
+2024,Precision Eyeliner,Eyes,Phoenix,AZ,3,63,10, 630.00 ,11/1/2024
+2024,Illuminating Highlighter,Face,San Diego,CA,15,127,25," 3,175.00 ",1/1/2024
+2024,Radiant Concealer,Face,Miami,FL,2,103,30," 3,090.00 ",6/1/2024
+2024,Matte Liquid Lipstick,Lips,Washington D.C.,DC,6,59,12, 708.00 ,3/1/2024
+2024,Lip Liner Cream Pencil,Lips,Phoenix,AZ,17,185,10," 1,850.00 ",8/1/2024
+2021,Luxe Mascara,Eyes,Chicago,IL,11,48,15, 720.00 ,2/1/2021
+2021,Cream Blush,Face,Houston,TX,8,50,25," 1,250.00 ",9/1/2021
+2022,Matte Liquid Lipstick,Lips,Dallas,TX,5,129,12," 1,548.00 ",6/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,San Diego,CA,7,55,20," 1,100.00 ",12/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,Boston,MA,1,170,20," 3,400.00 ",1/1/2024
+2023,Illuminating Highlighter,Face,Atlanta,GA,4,168,25," 4,200.00 ",7/1/2023
+2022,Flawless Foundation,Face,Los Angeles,CA,16,159,40," 6,360.00 ",8/1/2022
+2024,Lip Liner Cream Pencil,Lips,San Diego,CA,16,176,10," 1,760.00 ",1/1/2024
+2021,Precision Eyeliner,Eyes,Washington D.C.,DC,11,86,10, 860.00 ,6/1/2021
+2021,Precision Eyeliner,Eyes,Detroit,MI,8,148,10," 1,480.00 ",12/1/2021
+2024,Cream Blush,Face,Dallas,TX,17,98,25," 2,450.00 ",10/1/2024
+2023,Glossy Lip Stain,Lips,Atlanta,GA,11,103,8, 824.00 ,2/1/2023
+2022,Velvet Eyeshadow Palette,Eyes,San Diego,CA,9,185,20," 3,700.00 ",12/1/2022
+2022,Precision Eyeliner,Eyes,San Francisco,CA,9,120,10," 1,200.00 ",10/1/2022
+2023,Cream Blush,Face,Philadelphia,PA,13,45,25," 1,125.00 ",9/1/2023
+2022,Cream Blush,Face,Dallas,TX,10,120,25," 3,000.00 ",7/1/2022
+2022,Velvet Eyeshadow Palette,Eyes,Houston,TX,8,138,20," 2,760.00 ",4/1/2022
+2023,Velvet Eyeshadow Palette,Eyes,San Diego,CA,3,157,20," 3,140.00 ",9/1/2023
+2024,Matte Liquid Lipstick,Lips,Phoenix,AZ,16,178,12," 2,136.00 ",2/1/2024
+2024,Glossy Lip Stain,Lips,Phoenix,AZ,6,194,8," 1,552.00 ",5/1/2024
+2021,Matte Liquid Lipstick,Lips,Philadelphia,PA,15,73,12, 876.00 ,3/1/2021
+2021,Cream Blush,Face,San Diego,CA,15,130,25," 3,250.00 ",3/1/2021
+2024,Lip Liner Cream Pencil,Lips,Philadelphia,PA,4,55,10, 550.00 ,8/1/2024
+2022,Glossy Lip Stain,Lips,New York,NY,17,188,8," 1,504.00 ",12/1/2022
+2021,Lip Liner Cream Pencil,Lips,Los Angeles,CA,17,54,10, 540.00 ,1/1/2021
+2024,Illuminating Highlighter,Face,Houston,TX,1,114,25," 2,850.00 ",7/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Detroit,MI,19,114,20," 2,280.00 ",9/1/2022
+2023,Flawless Foundation,Face,Los Angeles,CA,5,196,40," 7,840.00 ",3/1/2023
+2022,Precision Eyeliner,Eyes,San Francisco,CA,5,57,10, 570.00 ,8/1/2022
+2024,Lip Liner Cream Pencil,Lips,Detroit,MI,18,90,10, 900.00 ,3/1/2024
+2022,Flawless Foundation,Face,Houston,TX,11,108,40," 4,320.00 ",9/1/2022
+2022,Radiant Concealer,Face,Phoenix,AZ,6,154,30," 4,620.00 ",11/1/2022
+2023,Cream Blush,Face,New York,NY,12,88,25," 2,200.00 ",11/1/2023
+2024,Lip Liner Cream Pencil,Lips,New York,NY,19,192,10," 1,920.00 ",11/1/2024
+2022,Flawless Foundation,Face,Philadelphia,PA,6,190,40," 7,600.00 ",7/1/2022
+2021,Lip Liner Cream Pencil,Lips,Los Angeles,CA,11,40,10, 400.00 ,3/1/2021
+2021,Flawless Foundation,Face,San Francisco,CA,7,79,40," 3,160.00 ",6/1/2021
+2023,Flawless Foundation,Face,Los Angeles,CA,16,147,40," 5,880.00 ",4/1/2023
+2024,Radiant Concealer,Face,Dallas,TX,8,154,30," 4,620.00 ",9/1/2024
+2024,Illuminating Highlighter,Face,Phoenix,AZ,8,92,25," 2,300.00 ",12/1/2024
+2022,Lip Liner Cream Pencil,Lips,Dallas,TX,14,77,10, 770.00 ,4/1/2022
+2023,Matte Liquid Lipstick,Lips,Phoenix,AZ,12,181,12," 2,172.00 ",1/1/2023
+2023,Precision Eyeliner,Eyes,Boston,MA,13,94,10, 940.00 ,8/1/2023
+2024,Precision Eyeliner,Eyes,Las Vegas,NV,11,176,10," 1,760.00 ",1/1/2024
+2024,Luxe Mascara,Eyes,Phoenix,AZ,4,55,15, 825.00 ,8/1/2024
+2024,Radiant Concealer,Face,Dallas,TX,15,54,30," 1,620.00 ",11/1/2024
+2021,Flawless Foundation,Face,Boston,MA,15,43,40," 1,720.00 ",1/1/2021
+2021,Cream Blush,Face,Detroit,MI,4,94,25," 2,350.00 ",7/1/2021
+2023,Radiant Concealer,Face,San Francisco,CA,1,198,30," 5,940.00 ",12/1/2023
+2024,Matte Liquid Lipstick,Lips,Phoenix,AZ,16,139,12," 1,668.00 ",8/1/2024
+2021,Precision Eyeliner,Eyes,Philadelphia,PA,9,183,10," 1,830.00 ",7/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Atlanta,GA,5,52,20," 1,040.00 ",3/1/2024
+2022,Matte Liquid Lipstick,Lips,Detroit,MI,4,105,12," 1,260.00 ",2/1/2022
+2024,Cream Blush,Face,Phoenix,AZ,7,172,25," 4,300.00 ",8/1/2024
+2021,Radiant Concealer,Face,Philadelphia,PA,10,87,30," 2,610.00 ",10/1/2021
+2022,Luxe Mascara,Eyes,Houston,TX,16,62,15, 930.00 ,1/1/2022
+2022,Radiant Concealer,Face,Chicago,IL,12,176,30," 5,280.00 ",3/1/2022
+2021,Glossy Lip Stain,Lips,Washington D.C.,DC,2,83,8, 664.00 ,2/1/2021
+2021,Lip Liner Cream Pencil,Lips,Philadelphia,PA,9,168,10," 1,680.00 ",6/1/2021
+2021,Flawless Foundation,Face,Atlanta,GA,13,77,40," 3,080.00 ",4/1/2021
+2021,Matte Liquid Lipstick,Lips,Dallas,TX,9,50,12, 600.00 ,8/1/2021
+2021,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,3,81,20," 1,620.00 ",1/1/2021
+2023,Luxe Mascara,Eyes,Philadelphia,PA,14,131,15," 1,965.00 ",10/1/2023
+2022,Matte Liquid Lipstick,Lips,Atlanta,GA,1,159,12," 1,908.00 ",12/1/2022
+2022,Illuminating Highlighter,Face,Houston,TX,9,118,25," 2,950.00 ",1/1/2022
+2021,Cream Blush,Face,Washington D.C.,DC,2,166,25," 4,150.00 ",7/1/2021
+2023,Radiant Concealer,Face,Phoenix,AZ,9,142,30," 4,260.00 ",11/1/2023
+2024,Radiant Concealer,Face,Phoenix,AZ,5,147,30," 4,410.00 ",1/1/2024
+2023,Velvet Eyeshadow Palette,Eyes,Boston,MA,12,120,20," 2,400.00 ",7/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Washington D.C.,DC,14,190,20," 3,800.00 ",9/1/2024
+2021,Precision Eyeliner,Eyes,New York,NY,2,98,10, 980.00 ,4/1/2021
+2023,Cream Blush,Face,Washington D.C.,DC,6,96,25," 2,400.00 ",6/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,New York,NY,14,54,20," 1,080.00 ",2/1/2024
+2022,Cream Blush,Face,Houston,TX,12,158,25," 3,950.00 ",9/1/2022
+2024,Cream Blush,Face,Washington D.C.,DC,4,87,25," 2,175.00 ",6/1/2024
+2023,Matte Liquid Lipstick,Lips,Las Vegas,NV,7,65,12, 780.00 ,9/1/2023
+2021,Glossy Lip Stain,Lips,Detroit,MI,10,81,8, 648.00 ,6/1/2021
+2023,Illuminating Highlighter,Face,Phoenix,AZ,7,79,25," 1,975.00 ",8/1/2023
+2022,Precision Eyeliner,Eyes,Washington D.C.,DC,17,66,10, 660.00 ,6/1/2022
+2021,Illuminating Highlighter,Face,Dallas,TX,10,138,25," 3,450.00 ",3/1/2021
+2022,Illuminating Highlighter,Face,Chicago,IL,2,157,25," 3,925.00 ",7/1/2022
+2023,Matte Liquid Lipstick,Lips,Detroit,MI,10,44,12, 528.00 ,4/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Chicago,IL,16,199,20," 3,980.00 ",7/1/2024
+2022,Flawless Foundation,Face,San Francisco,CA,8,41,40," 1,640.00 ",12/1/2022
+2024,Radiant Concealer,Face,Atlanta,GA,10,178,30," 5,340.00 ",2/1/2024
+2023,Lip Liner Cream Pencil,Lips,Phoenix,AZ,13,146,10," 1,460.00 ",1/1/2023
+2024,Flawless Foundation,Face,San Francisco,CA,8,124,40," 4,960.00 ",5/1/2024
+2024,Cream Blush,Face,Atlanta,GA,4,173,25," 4,325.00 ",4/1/2024
+2022,Glossy Lip Stain,Lips,New York,NY,1,100,8, 800.00 ,7/1/2022
+2021,Illuminating Highlighter,Face,San Francisco,CA,8,96,25," 2,400.00 ",8/1/2021
+2024,Radiant Concealer,Face,Philadelphia,PA,4,110,30," 3,300.00 ",12/1/2024
+2023,Illuminating Highlighter,Face,Detroit,MI,7,141,25," 3,525.00 ",3/1/2023
+2022,Precision Eyeliner,Eyes,Las Vegas,NV,18,130,10," 1,300.00 ",12/1/2022
+2024,Luxe Mascara,Eyes,Chicago,IL,14,113,15," 1,695.00 ",4/1/2024
+2021,Lip Liner Cream Pencil,Lips,Boston,MA,7,178,10," 1,780.00 ",3/1/2021
+2024,Illuminating Highlighter,Face,Dallas,TX,2,53,25," 1,325.00 ",12/1/2024
+2022,Luxe Mascara,Eyes,New York,NY,19,85,15," 1,275.00 ",5/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,Washington D.C.,DC,7,135,20," 2,700.00 ",9/1/2024
+2023,Lip Liner Cream Pencil,Lips,Houston,TX,9,175,10," 1,750.00 ",4/1/2023
+2024,Flawless Foundation,Face,New York,NY,2,196,40," 7,840.00 ",8/1/2024
+2021,Glossy Lip Stain,Lips,Philadelphia,PA,13,161,8," 1,288.00 ",2/1/2021
+2024,Matte Liquid Lipstick,Lips,Miami,FL,13,136,12," 1,632.00 ",2/1/2024
+2024,Flawless Foundation,Face,Houston,TX,14,58,40," 2,320.00 ",11/1/2024
+2022,Cream Blush,Face,Los Angeles,CA,10,148,25," 3,700.00 ",8/1/2022
+2024,Radiant Concealer,Face,Boston,MA,1,105,30," 3,150.00 ",8/1/2024
+2022,Lip Liner Cream Pencil,Lips,Phoenix,AZ,19,154,10," 1,540.00 ",5/1/2022
+2021,Illuminating Highlighter,Face,Detroit,MI,19,69,25," 1,725.00 ",2/1/2021
+2024,Illuminating Highlighter,Face,San Diego,CA,1,145,25," 3,625.00 ",3/1/2024
+2024,Radiant Concealer,Face,Boston,MA,12,105,30," 3,150.00 ",5/1/2024
+2021,Velvet Eyeshadow Palette,Eyes,Houston,TX,8,119,20," 2,380.00 ",3/1/2021
+2022,Radiant Concealer,Face,Chicago,IL,13,77,30," 2,310.00 ",4/1/2022
+2023,Matte Liquid Lipstick,Lips,Washington D.C.,DC,2,52,12, 624.00 ,1/1/2023
+2023,Lip Liner Cream Pencil,Lips,Boston,MA,6,93,10, 930.00 ,4/1/2023
+2021,Glossy Lip Stain,Lips,Washington D.C.,DC,7,88,8, 704.00 ,3/1/2021
+2021,Precision Eyeliner,Eyes,New York,NY,13,150,10," 1,500.00 ",2/1/2021
+2023,Glossy Lip Stain,Lips,San Francisco,CA,2,163,8," 1,304.00 ",7/1/2023
+2024,Precision Eyeliner,Eyes,Los Angeles,CA,13,139,10," 1,390.00 ",5/1/2024
+2024,Radiant Concealer,Face,Houston,TX,4,198,30," 5,940.00 ",11/1/2024
+2022,Precision Eyeliner,Eyes,Dallas,TX,8,130,10," 1,300.00 ",2/1/2022
+2023,Velvet Eyeshadow Palette,Eyes,Washington D.C.,DC,3,177,20," 3,540.00 ",6/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,12,46,20, 920.00 ,8/1/2024
+2021,Matte Liquid Lipstick,Lips,Atlanta,GA,19,88,12," 1,056.00 ",8/1/2021
+2023,Velvet Eyeshadow Palette,Eyes,Chicago,IL,1,126,20," 2,520.00 ",11/1/2023
+2023,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,4,143,20," 2,860.00 ",10/1/2023
+2024,Lip Liner Cream Pencil,Lips,Las Vegas,NV,12,194,10," 1,940.00 ",10/1/2024
+2024,Luxe Mascara,Eyes,Philadelphia,PA,19,83,15," 1,245.00 ",1/1/2024
+2021,Flawless Foundation,Face,Boston,MA,19,130,40," 5,200.00 ",4/1/2021
+2023,Lip Liner Cream Pencil,Lips,Las Vegas,NV,11,195,10," 1,950.00 ",3/1/2023
+2022,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,18,165,20," 3,300.00 ",10/1/2022
+2024,Matte Liquid Lipstick,Lips,Los Angeles,CA,19,113,12," 1,356.00 ",12/1/2024
+2024,Precision Eyeliner,Eyes,Chicago,IL,7,199,10," 1,990.00 ",9/1/2024
+2023,Glossy Lip Stain,Lips,Atlanta,GA,6,174,8," 1,392.00 ",12/1/2023
+2023,Flawless Foundation,Face,San Francisco,CA,10,110,40," 4,400.00 ",1/1/2023
+2021,Flawless Foundation,Face,Dallas,TX,17,83,40," 3,320.00 ",1/1/2021
+2022,Matte Liquid Lipstick,Lips,Boston,MA,11,125,12," 1,500.00 ",1/1/2022
+2024,Flawless Foundation,Face,Atlanta,GA,13,193,40," 7,720.00 ",11/1/2024
+2023,Precision Eyeliner,Eyes,Miami,FL,3,82,10, 820.00 ,9/1/2023
+2023,Precision Eyeliner,Eyes,San Francisco,CA,16,89,10, 890.00 ,4/1/2023
+2023,Matte Liquid Lipstick,Lips,Philadelphia,PA,14,165,12," 1,980.00 ",9/1/2023
+2023,Glossy Lip Stain,Lips,New York,NY,8,125,8," 1,000.00 ",1/1/2023
+2023,Lip Liner Cream Pencil,Lips,Houston,TX,9,52,10, 520.00 ,9/1/2023
+2021,Lip Liner Cream Pencil,Lips,Dallas,TX,9,133,10," 1,330.00 ",3/1/2021
+2022,Lip Liner Cream Pencil,Lips,Los Angeles,CA,1,163,10," 1,630.00 ",11/1/2022
+2022,Matte Liquid Lipstick,Lips,Miami,FL,14,153,12," 1,836.00 ",8/1/2022
+2022,Lip Liner Cream Pencil,Lips,Detroit,MI,15,138,10," 1,380.00 ",6/1/2022
+2021,Radiant Concealer,Face,Los Angeles,CA,19,152,30," 4,560.00 ",11/1/2021
+2022,Flawless Foundation,Face,New York,NY,13,46,40," 1,840.00 ",11/1/2022
+2024,Illuminating Highlighter,Face,Philadelphia,PA,13,82,25," 2,050.00 ",4/1/2024
+2022,Glossy Lip Stain,Lips,Washington D.C.,DC,17,63,8, 504.00 ,9/1/2022
+2023,Illuminating Highlighter,Face,Boston,MA,13,114,25," 2,850.00 ",5/1/2023
+2023,Velvet Eyeshadow Palette,Eyes,Detroit,MI,2,175,20," 3,500.00 ",9/1/2023
+2022,Cream Blush,Face,Phoenix,AZ,12,83,25," 2,075.00 ",8/1/2022
+2024,Cream Blush,Face,Boston,MA,13,136,25," 3,400.00 ",5/1/2024
+2023,Flawless Foundation,Face,Boston,MA,8,45,40," 1,800.00 ",8/1/2023
+2023,Luxe Mascara,Eyes,Dallas,TX,16,165,15," 2,475.00 ",3/1/2023
+2023,Glossy Lip Stain,Lips,Detroit,MI,17,84,8, 672.00 ,4/1/2023
+2024,Cream Blush,Face,Washington D.C.,DC,18,173,25," 4,325.00 ",6/1/2024
+2023,Lip Liner Cream Pencil,Lips,Dallas,TX,1,148,10," 1,480.00 ",6/1/2023
+2022,Precision Eyeliner,Eyes,Detroit,MI,8,190,10," 1,900.00 ",6/1/2022
+2022,Radiant Concealer,Face,San Francisco,CA,1,193,30," 5,790.00 ",2/1/2022
+2022,Precision Eyeliner,Eyes,Washington D.C.,DC,8,154,10," 1,540.00 ",11/1/2022
+2024,Matte Liquid Lipstick,Lips,Las Vegas,NV,17,60,12, 720.00 ,6/1/2024
+2024,Radiant Concealer,Face,Washington D.C.,DC,1,153,30," 4,590.00 ",6/1/2024
+2021,Radiant Concealer,Face,Las Vegas,NV,6,98,30," 2,940.00 ",10/1/2021
+2022,Flawless Foundation,Face,Chicago,IL,3,53,40," 2,120.00 ",4/1/2022
+2024,Flawless Foundation,Face,New York,NY,10,61,40," 2,440.00 ",9/1/2024
+2024,Glossy Lip Stain,Lips,San Diego,CA,17,134,8," 1,072.00 ",12/1/2024
+2021,Glossy Lip Stain,Lips,Boston,MA,8,44,8, 352.00 ,9/1/2021
+2024,Radiant Concealer,Face,Chicago,IL,13,71,30," 2,130.00 ",6/1/2024
+2021,Glossy Lip Stain,Lips,Los Angeles,CA,11,114,8, 912.00 ,5/1/2021
+2022,Cream Blush,Face,Washington D.C.,DC,5,48,25," 1,200.00 ",12/1/2022
+2021,Flawless Foundation,Face,Miami,FL,10,143,40," 5,720.00 ",5/1/2021
+2024,Precision Eyeliner,Eyes,Las Vegas,NV,9,147,10," 1,470.00 ",8/1/2024
+2021,Lip Liner Cream Pencil,Lips,San Diego,CA,19,97,10, 970.00 ,12/1/2021
+2023,Velvet Eyeshadow Palette,Eyes,Atlanta,GA,7,43,20, 860.00 ,11/1/2023
+2024,Glossy Lip Stain,Lips,Washington D.C.,DC,3,110,8, 880.00 ,8/1/2024
+2021,Matte Liquid Lipstick,Lips,San Diego,CA,2,119,12," 1,428.00 ",4/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Dallas,TX,19,108,20," 2,160.00 ",9/1/2024
+2021,Cream Blush,Face,Phoenix,AZ,4,141,25," 3,525.00 ",8/1/2021
+2023,Radiant Concealer,Face,Detroit,MI,1,118,30," 3,540.00 ",4/1/2023
+2023,Flawless Foundation,Face,Washington D.C.,DC,4,90,40," 3,600.00 ",4/1/2023
+2024,Lip Liner Cream Pencil,Lips,Dallas,TX,7,198,10," 1,980.00 ",2/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,16,161,20," 3,220.00 ",11/1/2022
+2023,Matte Liquid Lipstick,Lips,Houston,TX,13,132,12," 1,584.00 ",2/1/2023
+2022,Lip Liner Cream Pencil,Lips,Houston,TX,17,165,10," 1,650.00 ",11/1/2022
+2024,Illuminating Highlighter,Face,Las Vegas,NV,3,134,25," 3,350.00 ",4/1/2024
+2021,Illuminating Highlighter,Face,Houston,TX,7,44,25," 1,100.00 ",8/1/2021
+2023,Illuminating Highlighter,Face,Houston,TX,4,66,25," 1,650.00 ",5/1/2023
+2022,Illuminating Highlighter,Face,Boston,MA,6,74,25," 1,850.00 ",5/1/2022
+2021,Luxe Mascara,Eyes,Atlanta,GA,8,134,15," 2,010.00 ",6/1/2021
+2022,Radiant Concealer,Face,Miami,FL,15,171,30," 5,130.00 ",1/1/2022
+2023,Luxe Mascara,Eyes,Los Angeles,CA,18,92,15," 1,380.00 ",10/1/2023
+2021,Lip Liner Cream Pencil,Lips,New York,NY,1,121,10," 1,210.00 ",4/1/2021
+2022,Glossy Lip Stain,Lips,Los Angeles,CA,1,134,8," 1,072.00 ",7/1/2022
+2021,Illuminating Highlighter,Face,Atlanta,GA,3,137,25," 3,425.00 ",8/1/2021
+2024,Glossy Lip Stain,Lips,Dallas,TX,17,190,8," 1,520.00 ",9/1/2024
+2021,Cream Blush,Face,Washington D.C.,DC,9,40,25," 1,000.00 ",4/1/2021
+2021,Matte Liquid Lipstick,Lips,Boston,MA,2,66,12, 792.00 ,10/1/2021
+2021,Illuminating Highlighter,Face,Chicago,IL,4,94,25," 2,350.00 ",11/1/2021
+2021,Precision Eyeliner,Eyes,Miami,FL,18,123,10," 1,230.00 ",9/1/2021
+2022,Matte Liquid Lipstick,Lips,Boston,MA,7,63,12, 756.00 ,6/1/2022
+2024,Cream Blush,Face,Washington D.C.,DC,7,180,25," 4,500.00 ",10/1/2024
+2021,Precision Eyeliner,Eyes,Boston,MA,15,88,10, 880.00 ,12/1/2021
+2022,Velvet Eyeshadow Palette,Eyes,Philadelphia,PA,6,48,20, 960.00 ,5/1/2022
+2024,Luxe Mascara,Eyes,Phoenix,AZ,15,69,15," 1,035.00 ",7/1/2024
+2023,Matte Liquid Lipstick,Lips,Chicago,IL,15,161,12," 1,932.00 ",2/1/2023
+2021,Glossy Lip Stain,Lips,Philadelphia,PA,15,103,8, 824.00 ,6/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,7,158,20," 3,160.00 ",9/1/2024
+2021,Flawless Foundation,Face,Atlanta,GA,4,185,40," 7,400.00 ",7/1/2021
+2023,Illuminating Highlighter,Face,New York,NY,6,75,25," 1,875.00 ",12/1/2023
+2021,Radiant Concealer,Face,Los Angeles,CA,19,151,30," 4,530.00 ",10/1/2021
+2023,Matte Liquid Lipstick,Lips,San Francisco,CA,8,120,12," 1,440.00 ",6/1/2023
+2021,Lip Liner Cream Pencil,Lips,Phoenix,AZ,14,87,10, 870.00 ,12/1/2021
+2023,Glossy Lip Stain,Lips,Detroit,MI,8,47,8, 376.00 ,11/1/2023
+2023,Velvet Eyeshadow Palette,Eyes,Miami,FL,13,40,20, 800.00 ,1/1/2023
+2022,Glossy Lip Stain,Lips,Los Angeles,CA,11,162,8," 1,296.00 ",10/1/2022
+2023,Illuminating Highlighter,Face,Las Vegas,NV,15,146,25," 3,650.00 ",2/1/2023
+2022,Matte Liquid Lipstick,Lips,Houston,TX,13,125,12," 1,500.00 ",9/1/2022
+2024,Glossy Lip Stain,Lips,Washington D.C.,DC,1,92,8, 736.00 ,6/1/2024
+2024,Matte Liquid Lipstick,Lips,Detroit,MI,13,115,12," 1,380.00 ",4/1/2024
+2023,Matte Liquid Lipstick,Lips,Boston,MA,2,77,12, 924.00 ,3/1/2023
+2024,Illuminating Highlighter,Face,New York,NY,2,83,25," 2,075.00 ",2/1/2024
+2021,Precision Eyeliner,Eyes,Miami,FL,14,46,10, 460.00 ,8/1/2021
+2023,Precision Eyeliner,Eyes,New York,NY,12,107,10," 1,070.00 ",5/1/2023
+2021,Flawless Foundation,Face,San Francisco,CA,3,48,40," 1,920.00 ",8/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Atlanta,GA,3,181,20," 3,620.00 ",4/1/2024
+2022,Radiant Concealer,Face,Atlanta,GA,5,79,30," 2,370.00 ",4/1/2022
+2021,Cream Blush,Face,Washington D.C.,DC,18,156,25," 3,900.00 ",5/1/2021
+2021,Luxe Mascara,Eyes,Detroit,MI,17,112,15," 1,680.00 ",7/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Houston,TX,5,97,20," 1,940.00 ",1/1/2024
+2022,Flawless Foundation,Face,Philadelphia,PA,17,71,40," 2,840.00 ",2/1/2022
+2023,Luxe Mascara,Eyes,Las Vegas,NV,17,87,15," 1,305.00 ",2/1/2023
+2023,Luxe Mascara,Eyes,Boston,MA,8,61,15, 915.00 ,9/1/2023
+2024,Lip Liner Cream Pencil,Lips,Miami,FL,19,69,10, 690.00 ,3/1/2024
+2022,Cream Blush,Face,Philadelphia,PA,15,43,25," 1,075.00 ",7/1/2022
+2022,Glossy Lip Stain,Lips,Philadelphia,PA,18,192,8," 1,536.00 ",11/1/2022
+2024,Luxe Mascara,Eyes,Las Vegas,NV,7,157,15," 2,355.00 ",2/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,Los Angeles,CA,3,69,20," 1,380.00 ",10/1/2024
+2022,Precision Eyeliner,Eyes,Dallas,TX,1,43,10, 430.00 ,1/1/2022
+2023,Precision Eyeliner,Eyes,Phoenix,AZ,6,145,10," 1,450.00 ",1/1/2023
+2022,Velvet Eyeshadow Palette,Eyes,San Diego,CA,14,94,20," 1,880.00 ",9/1/2022
+2023,Matte Liquid Lipstick,Lips,Philadelphia,PA,17,169,12," 2,028.00 ",8/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Phoenix,AZ,1,196,20," 3,920.00 ",4/1/2024
+2024,Glossy Lip Stain,Lips,New York,NY,9,194,8," 1,552.00 ",8/1/2024
+2024,Illuminating Highlighter,Face,Las Vegas,NV,2,137,25," 3,425.00 ",5/1/2024
+2023,Cream Blush,Face,Dallas,TX,7,87,25," 2,175.00 ",5/1/2023
+2024,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,11,113,20," 2,260.00 ",11/1/2024
+2023,Lip Liner Cream Pencil,Lips,San Diego,CA,3,150,10," 1,500.00 ",9/1/2023
+2021,Radiant Concealer,Face,Washington D.C.,DC,11,47,30," 1,410.00 ",8/1/2021
+2024,Glossy Lip Stain,Lips,Dallas,TX,3,164,8," 1,312.00 ",5/1/2024
+2023,Illuminating Highlighter,Face,Chicago,IL,14,185,25," 4,625.00 ",11/1/2023
+2023,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,10,62,20," 1,240.00 ",8/1/2023
+2024,Flawless Foundation,Face,Houston,TX,18,106,40," 4,240.00 ",4/1/2024
+2024,Precision Eyeliner,Eyes,Atlanta,GA,15,45,10, 450.00 ,8/1/2024
+2023,Glossy Lip Stain,Lips,San Francisco,CA,11,58,8, 464.00 ,5/1/2023
+2023,Glossy Lip Stain,Lips,New York,NY,3,135,8," 1,080.00 ",5/1/2023
+2024,Illuminating Highlighter,Face,Las Vegas,NV,10,119,25," 2,975.00 ",4/1/2024
+2021,Cream Blush,Face,Detroit,MI,10,176,25," 4,400.00 ",1/1/2021
+2021,Glossy Lip Stain,Lips,Houston,TX,15,110,8, 880.00 ,2/1/2021
+2022,Luxe Mascara,Eyes,San Diego,CA,12,159,15," 2,385.00 ",7/1/2022
+2024,Velvet Eyeshadow Palette,Eyes,Philadelphia,PA,19,70,20," 1,400.00 ",3/1/2024
+2024,Precision Eyeliner,Eyes,San Francisco,CA,5,71,10, 710.00 ,3/1/2024
+2021,Precision Eyeliner,Eyes,Miami,FL,19,99,10, 990.00 ,10/1/2021
+2022,Luxe Mascara,Eyes,Los Angeles,CA,12,148,15," 2,220.00 ",12/1/2022
+2021,Velvet Eyeshadow Palette,Eyes,Atlanta,GA,9,155,20," 3,100.00 ",4/1/2021
+2022,Radiant Concealer,Face,Washington D.C.,DC,5,113,30," 3,390.00 ",2/1/2022
+2021,Illuminating Highlighter,Face,Phoenix,AZ,14,151,25," 3,775.00 ",6/1/2021
+2024,Glossy Lip Stain,Lips,New York,NY,2,155,8," 1,240.00 ",8/1/2024
+2023,Radiant Concealer,Face,Atlanta,GA,3,66,30," 1,980.00 ",8/1/2023
+2023,Matte Liquid Lipstick,Lips,San Diego,CA,9,191,12," 2,292.00 ",5/1/2023
+2023,Radiant Concealer,Face,Las Vegas,NV,9,74,30," 2,220.00 ",9/1/2023
+2023,Lip Liner Cream Pencil,Lips,Miami,FL,10,42,10, 420.00 ,6/1/2023
+2024,Luxe Mascara,Eyes,Phoenix,AZ,17,184,15," 2,760.00 ",2/1/2024
+2024,Glossy Lip Stain,Lips,Dallas,TX,11,46,8, 368.00 ,4/1/2024
+2023,Matte Liquid Lipstick,Lips,San Diego,CA,9,189,12," 2,268.00 ",10/1/2023
+2024,Luxe Mascara,Eyes,Miami,FL,19,152,15," 2,280.00 ",7/1/2024
+2024,Precision Eyeliner,Eyes,Dallas,TX,5,179,10," 1,790.00 ",9/1/2024
+2022,Precision Eyeliner,Eyes,Las Vegas,NV,12,152,10," 1,520.00 ",3/1/2022
+2021,Glossy Lip Stain,Lips,Las Vegas,NV,3,124,8, 992.00 ,1/1/2021
+2023,Cream Blush,Face,Atlanta,GA,11,129,25," 3,225.00 ",7/1/2023
+2024,Luxe Mascara,Eyes,Houston,TX,12,177,15," 2,655.00 ",1/1/2024
+2022,Glossy Lip Stain,Lips,Boston,MA,9,129,8," 1,032.00 ",12/1/2022
+2024,Matte Liquid Lipstick,Lips,Miami,FL,9,165,12," 1,980.00 ",9/1/2024
+2024,Lip Liner Cream Pencil,Lips,Phoenix,AZ,17,50,10, 500.00 ,1/1/2024
+2022,Radiant Concealer,Face,Washington D.C.,DC,8,100,30," 3,000.00 ",8/1/2022
+2022,Glossy Lip Stain,Lips,Philadelphia,PA,4,62,8, 496.00 ,8/1/2022
+2023,Illuminating Highlighter,Face,Las Vegas,NV,8,132,25," 3,300.00 ",2/1/2023
+2023,Luxe Mascara,Eyes,New York,NY,8,181,15," 2,715.00 ",3/1/2023
+2022,Flawless Foundation,Face,San Diego,CA,12,65,40," 2,600.00 ",10/1/2022
+2023,Glossy Lip Stain,Lips,Boston,MA,11,103,8, 824.00 ,8/1/2023
+2021,Velvet Eyeshadow Palette,Eyes,Philadelphia,PA,14,79,20," 1,580.00 ",9/1/2021
+2021,Precision Eyeliner,Eyes,San Diego,CA,18,106,10," 1,060.00 ",9/1/2021
+2024,Glossy Lip Stain,Lips,Phoenix,AZ,7,43,8, 344.00 ,4/1/2024
+2021,Cream Blush,Face,Boston,MA,14,173,25," 4,325.00 ",5/1/2021
+2024,Flawless Foundation,Face,Dallas,TX,15,143,40," 5,720.00 ",7/1/2024
+2021,Flawless Foundation,Face,New York,NY,4,191,40," 7,640.00 ",10/1/2021
+2023,Velvet Eyeshadow Palette,Eyes,Chicago,IL,14,154,20," 3,080.00 ",2/1/2023
+2024,Illuminating Highlighter,Face,Las Vegas,NV,17,118,25," 2,950.00 ",8/1/2024
+2022,Flawless Foundation,Face,San Diego,CA,8,67,40," 2,680.00 ",1/1/2022
+2023,Lip Liner Cream Pencil,Lips,Washington D.C.,DC,13,103,10," 1,030.00 ",9/1/2023
+2023,Radiant Concealer,Face,Detroit,MI,16,131,30," 3,930.00 ",12/1/2023
+2023,Cream Blush,Face,Atlanta,GA,10,191,25," 4,775.00 ",9/1/2023
+2023,Luxe Mascara,Eyes,Philadelphia,PA,5,96,15," 1,440.00 ",5/1/2023
+2024,Matte Liquid Lipstick,Lips,Atlanta,GA,2,196,12," 2,352.00 ",8/1/2024
+2021,Luxe Mascara,Eyes,San Diego,CA,8,119,15," 1,785.00 ",7/1/2021
+2021,Luxe Mascara,Eyes,Chicago,IL,10,155,15," 2,325.00 ",7/1/2021
+2022,Precision Eyeliner,Eyes,Detroit,MI,16,149,10," 1,490.00 ",4/1/2022
+2021,Luxe Mascara,Eyes,Philadelphia,PA,12,126,15," 1,890.00 ",5/1/2021
+2024,Flawless Foundation,Face,Miami,FL,1,129,40," 5,160.00 ",2/1/2024
+2022,Cream Blush,Face,Detroit,MI,4,139,25," 3,475.00 ",5/1/2022
+2023,Matte Liquid Lipstick,Lips,Washington D.C.,DC,17,134,12," 1,608.00 ",4/1/2023
+2021,Luxe Mascara,Eyes,Miami,FL,12,98,15," 1,470.00 ",1/1/2021
+2024,Glossy Lip Stain,Lips,New York,NY,4,167,8," 1,336.00 ",3/1/2024
+2022,Glossy Lip Stain,Lips,Philadelphia,PA,11,127,8," 1,016.00 ",3/1/2022
+2023,Luxe Mascara,Eyes,New York,NY,10,110,15," 1,650.00 ",1/1/2023
+2021,Precision Eyeliner,Eyes,San Francisco,CA,10,172,10," 1,720.00 ",1/1/2021
+2024,Lip Liner Cream Pencil,Lips,New York,NY,8,138,10," 1,380.00 ",5/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,2,76,20," 1,520.00 ",10/1/2022
+2023,Velvet Eyeshadow Palette,Eyes,Detroit,MI,2,106,20," 2,120.00 ",7/1/2023
+2022,Cream Blush,Face,Detroit,MI,15,101,25," 2,525.00 ",11/1/2022
+2023,Cream Blush,Face,San Francisco,CA,7,155,25," 3,875.00 ",1/1/2023
+2023,Lip Liner Cream Pencil,Lips,Philadelphia,PA,19,58,10, 580.00 ,3/1/2023
+2023,Illuminating Highlighter,Face,Los Angeles,CA,19,103,25," 2,575.00 ",8/1/2023
+2024,Flawless Foundation,Face,New York,NY,16,133,40," 5,320.00 ",2/1/2024
+2022,Luxe Mascara,Eyes,Washington D.C.,DC,11,123,15," 1,845.00 ",6/1/2022
+2024,Radiant Concealer,Face,Boston,MA,4,190,30," 5,700.00 ",10/1/2024
+2022,Matte Liquid Lipstick,Lips,Philadelphia,PA,10,128,12," 1,536.00 ",6/1/2022
+2024,Lip Liner Cream Pencil,Lips,Las Vegas,NV,14,111,10," 1,110.00 ",8/1/2024
+2023,Matte Liquid Lipstick,Lips,Las Vegas,NV,8,73,12, 876.00 ,6/1/2023
+2023,Illuminating Highlighter,Face,Los Angeles,CA,10,63,25," 1,575.00 ",8/1/2023
+2022,Precision Eyeliner,Eyes,Las Vegas,NV,2,198,10," 1,980.00 ",5/1/2022
+2021,Lip Liner Cream Pencil,Lips,Los Angeles,CA,10,135,10," 1,350.00 ",6/1/2021
+2022,Lip Liner Cream Pencil,Lips,Philadelphia,PA,11,144,10," 1,440.00 ",10/1/2022
+2021,Radiant Concealer,Face,Phoenix,AZ,19,41,30," 1,230.00 ",6/1/2021
+2024,Radiant Concealer,Face,Chicago,IL,1,59,30," 1,770.00 ",4/1/2024
+2022,Flawless Foundation,Face,Washington D.C.,DC,6,67,40," 2,680.00 ",10/1/2022
+2023,Illuminating Highlighter,Face,Houston,TX,12,64,25," 1,600.00 ",1/1/2023
+2024,Flawless Foundation,Face,Philadelphia,PA,17,165,40," 6,600.00 ",7/1/2024
+2022,Glossy Lip Stain,Lips,Washington D.C.,DC,7,160,8," 1,280.00 ",6/1/2022
+2023,Radiant Concealer,Face,Dallas,TX,4,43,30," 1,290.00 ",12/1/2023
+2023,Lip Liner Cream Pencil,Lips,Philadelphia,PA,9,130,10," 1,300.00 ",10/1/2023
+2022,Precision Eyeliner,Eyes,San Diego,CA,8,114,10," 1,140.00 ",8/1/2022
+2021,Illuminating Highlighter,Face,Miami,FL,9,163,25," 4,075.00 ",7/1/2021
+2024,Flawless Foundation,Face,San Diego,CA,10,73,40," 2,920.00 ",4/1/2024
+2022,Radiant Concealer,Face,Miami,FL,19,106,30," 3,180.00 ",8/1/2022
+2021,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,2,172,20," 3,440.00 ",10/1/2021
+2023,Matte Liquid Lipstick,Lips,Dallas,TX,16,151,12," 1,812.00 ",4/1/2023
+2024,Illuminating Highlighter,Face,Las Vegas,NV,2,80,25," 2,000.00 ",10/1/2024
+2024,Matte Liquid Lipstick,Lips,Dallas,TX,16,61,12, 732.00 ,9/1/2024
+2022,Lip Liner Cream Pencil,Lips,Phoenix,AZ,6,172,10," 1,720.00 ",9/1/2022
+2024,Radiant Concealer,Face,Chicago,IL,14,122,30," 3,660.00 ",4/1/2024
+2022,Lip Liner Cream Pencil,Lips,Boston,MA,4,43,10, 430.00 ,5/1/2022
+2024,Flawless Foundation,Face,Atlanta,GA,6,58,40," 2,320.00 ",5/1/2024
+2023,Velvet Eyeshadow Palette,Eyes,Houston,TX,2,117,20," 2,340.00 ",3/1/2023
+2023,Luxe Mascara,Eyes,Phoenix,AZ,18,46,15, 690.00 ,1/1/2023
+2024,Lip Liner Cream Pencil,Lips,San Francisco,CA,17,136,10," 1,360.00 ",6/1/2024
+2024,Cream Blush,Face,Chicago,IL,5,137,25," 3,425.00 ",2/1/2024
+2021,Flawless Foundation,Face,Detroit,MI,16,190,40," 7,600.00 ",1/1/2021
+2021,Precision Eyeliner,Eyes,Miami,FL,1,174,10," 1,740.00 ",12/1/2021
+2023,Precision Eyeliner,Eyes,Detroit,MI,16,145,10," 1,450.00 ",2/1/2023
+2023,Luxe Mascara,Eyes,Los Angeles,CA,13,199,15," 2,985.00 ",6/1/2023
+2021,Matte Liquid Lipstick,Lips,San Francisco,CA,19,143,12," 1,716.00 ",12/1/2021
+2023,Illuminating Highlighter,Face,Houston,TX,5,122,25," 3,050.00 ",3/1/2023
+2021,Precision Eyeliner,Eyes,Chicago,IL,10,104,10," 1,040.00 ",8/1/2021
+2021,Flawless Foundation,Face,New York,NY,17,85,40," 3,400.00 ",12/1/2021
+2024,Matte Liquid Lipstick,Lips,Los Angeles,CA,8,196,12," 2,352.00 ",7/1/2024
+2021,Glossy Lip Stain,Lips,Dallas,TX,19,136,8," 1,088.00 ",11/1/2021
+2023,Glossy Lip Stain,Lips,Los Angeles,CA,11,61,8, 488.00 ,6/1/2023
+2022,Lip Liner Cream Pencil,Lips,Atlanta,GA,14,75,10, 750.00 ,9/1/2022
+2022,Flawless Foundation,Face,Detroit,MI,1,69,40," 2,760.00 ",7/1/2022
+2023,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,7,70,20," 1,400.00 ",8/1/2023
+2021,Lip Liner Cream Pencil,Lips,San Francisco,CA,18,168,10," 1,680.00 ",2/1/2021
+2024,Velvet Eyeshadow Palette,Eyes,Houston,TX,14,106,20," 2,120.00 ",12/1/2024
+2022,Matte Liquid Lipstick,Lips,New York,NY,2,42,12, 504.00 ,11/1/2022
+2024,Radiant Concealer,Face,Miami,FL,11,141,30," 4,230.00 ",10/1/2024
+2021,Radiant Concealer,Face,Washington D.C.,DC,14,156,30," 4,680.00 ",4/1/2021
+2022,Glossy Lip Stain,Lips,Miami,FL,14,101,8, 808.00 ,6/1/2022
+2023,Matte Liquid Lipstick,Lips,Los Angeles,CA,4,178,12," 2,136.00 ",7/1/2023
+2021,Illuminating Highlighter,Face,Philadelphia,PA,18,177,25," 4,425.00 ",6/1/2021
+2022,Precision Eyeliner,Eyes,San Diego,CA,14,69,10, 690.00 ,10/1/2022
+2023,Lip Liner Cream Pencil,Lips,Washington D.C.,DC,1,65,10, 650.00 ,11/1/2023
+2022,Lip Liner Cream Pencil,Lips,San Diego,CA,9,185,10," 1,850.00 ",3/1/2022
+2022,Glossy Lip Stain,Lips,Detroit,MI,3,89,8, 712.00 ,6/1/2022
+2023,Lip Liner Cream Pencil,Lips,San Francisco,CA,14,65,10, 650.00 ,7/1/2023
+2021,Velvet Eyeshadow Palette,Eyes,Las Vegas,NV,1,93,20," 1,860.00 ",11/1/2021
+2022,Flawless Foundation,Face,Houston,TX,2,188,40," 7,520.00 ",12/1/2022
+2024,Illuminating Highlighter,Face,Boston,MA,19,126,25," 3,150.00 ",6/1/2024
+2024,Illuminating Highlighter,Face,San Francisco,CA,12,68,25," 1,700.00 ",6/1/2024
+2022,Glossy Lip Stain,Lips,Miami,FL,15,128,8," 1,024.00 ",11/1/2022
+2021,Matte Liquid Lipstick,Lips,Los Angeles,CA,4,182,12," 2,184.00 ",11/1/2021
+2023,Radiant Concealer,Face,Houston,TX,13,85,30," 2,550.00 ",8/1/2023
+2023,Precision Eyeliner,Eyes,San Diego,CA,10,87,10, 870.00 ,10/1/2023
+2023,Matte Liquid Lipstick,Lips,Las Vegas,NV,13,149,12," 1,788.00 ",10/1/2023
+2024,Glossy Lip Stain,Lips,Detroit,MI,11,194,8," 1,552.00 ",4/1/2024
+2021,Velvet Eyeshadow Palette,Eyes,Chicago,IL,18,86,20," 1,720.00 ",11/1/2021
+2021,Cream Blush,Face,New York,NY,10,130,25," 3,250.00 ",8/1/2021
+2023,Cream Blush,Face,Las Vegas,NV,11,43,25," 1,075.00 ",9/1/2023
+2021,Lip Liner Cream Pencil,Lips,Houston,TX,13,42,10, 420.00 ,9/1/2021
+2024,Precision Eyeliner,Eyes,Philadelphia,PA,8,125,10," 1,250.00 ",11/1/2024
+2024,Velvet Eyeshadow Palette,Eyes,Boston,MA,13,144,20," 2,880.00 ",6/1/2024
+2022,Velvet Eyeshadow Palette,Eyes,Dallas,TX,11,136,20," 2,720.00 ",6/1/2022
+2021,Glossy Lip Stain,Lips,Atlanta,GA,5,100,8, 800.00 ,10/1/2021
+2021,Cream Blush,Face,Los Angeles,CA,10,74,25," 1,850.00 ",4/1/2021
+2022,Illuminating Highlighter,Face,Phoenix,AZ,16,163,25," 4,075.00 ",4/1/2022
+2024,Luxe Mascara,Eyes,Miami,FL,7,199,15," 2,985.00 ",3/1/2024
+2024,Glossy Lip Stain,Lips,Boston,MA,4,92,8, 736.00 ,4/1/2024
