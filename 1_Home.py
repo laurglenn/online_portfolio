@@ -9,7 +9,7 @@ about_page = st.Page(
     default=True,
 )
 project_1_page = st.Page(
-    page="sections/streamlitdash.py", #Update to Excel Spreadsheet
+    page="sections/streamlitdash.py",
     title="Excel Sales Dashboard",
     icon=":material/grouped_bar_chart:",
 )
