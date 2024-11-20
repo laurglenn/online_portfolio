@@ -1,4 +1,4 @@
-iimport streamlit as st
+import streamlit as st
 
 #----CREATE SECTIONS FOR ABOUT ME PAGE-----
 col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
