@@ -26,11 +26,8 @@ st.write("\n")
 st.subheader("Work Experience", anchor=False)
 st.write(
     """
-    -adfasdfa \n
-    -asdfasd \n
-    -aadfasf \n
-    -asdfa \n
-    -asdfsad
+    -Sales Analytics Analyst, Pacific Life (October 2013-Present)\n
+    -Reports Specialist, MetLife (January 2011-May 2013) \n
     """
     )
 
@@ -40,9 +37,9 @@ st.write(
     """
     -Alteryx Designer Certification \n
     -MicroStrategy 10 Certification \n
-    -aadfasf \n
-    -asdfa \n
-    -asdfsad
+    -Snowflake(Create tables, views and queries using SQL) \n
+    -Python(Basic pandas, openpyxl - This web app was created using Python) \n
+    -Microsoft Excel(Pivot Tables, SUMIFS, CASE, WINDOWSUM)
     """
     )
 
