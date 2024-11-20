@@ -6,8 +6,7 @@ with col1:
     st.image("./assets/LaurenGlenn_Headshot.jpg", width=230)
 with col2:
     st.title("Lauren Glenn", anchor=False)
-    st.write("I’m a sales analytics analyst who enjoys bringing data to life through visualizations. I'm familiar with Tableau, PowerBI, Excel and Steamlit. Select one of the dashboards on the side to \n
-    to see a the different versions of a Makeup Company Sales dashboard.")
+    st.write("I’m a sales analytics analyst who enjoys bringing data to life through visualizations. I'm familiar with Tableau, PowerBI, Excel and Steamlit. Select one of the dashboards on the si")
 
     #Add in other places to view my work
 Links = {
