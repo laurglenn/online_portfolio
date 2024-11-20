@@ -39,7 +39,7 @@ st.write(
     -MicroStrategy 10 Certification \n
     -Beginner:Snowflake(Create tables, views and queries using SQL) \n
     •Intermediate user in MS 365 (Excel, Access, SharePoint, PowerPoint) \n
-        -Excel(Pivot Tables, Power Query, Python(openpyxl, pandas, datetime)
+     -Excel(Pivot Tables, Power Query, Python(openpyxl, pandas, datetime)
     -Beginner: Figma Wireframing \n
     -Intermediate: Microsoft Excel(Power Query, Python(pandas, openpyxl, datetime), Pivot Tables, SUMIFS, CASE, WINDOWSUM)
     """
