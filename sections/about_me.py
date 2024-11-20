@@ -1,4 +1,4 @@
-import streamlit as st
+iimport streamlit as st
 
 #----CREATE SECTIONS FOR ABOUT ME PAGE-----
 col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
@@ -37,9 +37,11 @@ st.write(
     """
     -Alteryx Designer Certification \n
     -MicroStrategy 10 Certification \n
-    -Snowflake(Create tables, views and queries using SQL) \n
-    -Python(Basic pandas, openpyxl - This web app was created using Python) \n
-    -Microsoft Excel(Pivot Tables, SUMIFS, CASE, WINDOWSUM)
+    -Beginner:Snowflake(Create tables, views and queries using SQL) \n
+    •Intermediate user in MS 365 (Excel, Access, SharePoint, PowerPoint) \n
+        -Excel(Pivot Tables, Power Query, Python(openpyxl, pandas, datetime)
+    -Beginner: Figma Wireframing \n
+    -Intermediate: Microsoft Excel(Power Query, Python(pandas, openpyxl, datetime), Pivot Tables, SUMIFS, CASE, WINDOWSUM)
     """
     )
 
